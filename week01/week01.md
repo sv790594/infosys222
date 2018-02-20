@@ -55,7 +55,7 @@
 
 	> A structured set of data held in a computer, especially one that is accessible in various ways
 
-- 😶 How is a database different from a file system?
+- 🤔 How is a database different from a file system?
 
 - It is a collection of information that exists over a long period of time; the term database refers to a collection of data that is managed by a database management system (DBMS)
 
@@ -63,7 +63,7 @@
 ## What is a DBMS?
 > It is a system for providing __efficient__, __convenient__, and __safe__ storage of and __multi-user__ access to (possibly __massive__) amounts of __persistent__ data
 
-- 😶 Think of five examples when each of the bolded words applies
+- 🤔 Think of five examples when each of the bolded words applies
 
 - The DBMS  [evolution](https://en.wikipedia.org/wiki/Database#History): hierarchical → network → relational → object-oriented → object-relational
 
@@ -83,9 +83,9 @@ accNo | balance | type
 ## How to design a relational database?
 - It is often far from obvious to decide how to store data from an application as relations. A considerable part of the course will deal with a methodology for good relational database design
 
-- 😶 Suggest how to represent the following types of data as one or more relations: 1) a contact list, 2) a shopping cart
+- 🤔 Suggest how to represent the following types of data as one or more relations: 1) a contact list, 2) a shopping cart
 
-- 😶 Can you avoid (or reduce) duplication of data?
+- 🤔 Can you avoid (or reduce) duplication of data?
 
 
 ## Database design methodology
@@ -118,11 +118,11 @@ accNo | balance | type
 
 - Consider the relation __Account__, the command to get the balance from accNo 22222:
 
-	```
+```
 SELECT balance
 FROM Account
 WHERE accNo = 22222;
-	```
+```
 <!-- .element: contenteditable="true" -->
 
 
@@ -157,12 +157,12 @@ accNo | name | address
 
 - Suppose we have a related relation __Holder__, the command to get the names of holders with check accounts:
 
-	```
+```
 SELECT name
 FROM Account, Holder
 WHERE Account.accNo = Holder.accNo
 AND Account.type = 'check';
-	```
+```
 <!-- .element: contenteditable="true" -->
 
 
@@ -186,12 +186,12 @@ AND <conditions>;
 
 	Write a SQL command that lists all accounts (with accNo and type) that have a positive balance
 
-	```
+```
 SELECT ...
 FROM ...
 WHERE ...
 
-	```
+```
 <!-- .element: contenteditable="true" -->
 
 
