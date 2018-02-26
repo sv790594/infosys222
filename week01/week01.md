@@ -243,7 +243,7 @@ WHERE ...
 
 ## <i class="fas fa-book"></i> Reading
 - Essential
-	- [The Worlds of Database Systems (p1-13)](http://infolab.stanford.edu/~ullman/fcdb/ch1.pdf)
+	- [The Worlds of Database Systems (p1-9)](http://infolab.stanford.edu/~ullman/fcdb/ch1.pdf)
 
 	- [Introduction from SQL for Web Nerds](http://philip.greenspun.com/sql/introduction.html)
 
