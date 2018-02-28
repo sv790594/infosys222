@@ -54,7 +54,7 @@
 
 
 ## Example
-```
+```sql
 SELECT staffCity city, COUNT(staffCity) '# of staff'
 FROM Staff
 GROUP BY staffCity;
@@ -71,7 +71,7 @@ Westland    1
 
 
 ## Another example
-```
+```sql
 SELECT roleID, AVG(salary)
 FROM StaffAssignment
 GROUP BY roleID;
@@ -87,7 +87,7 @@ roleID      AVG(salary)
 ## HAVING clause
 - The HAVING clause is used to filter the result from a SELECT statement with a multi-row function and a GROUP BY clause
 
-```
+```sql
 SELECT branchNo, AVG(salary)
 FROM StaffAssignment
 GROUP BY branchNo
@@ -117,7 +117,7 @@ branchNo    AVG(salary)
 
 
 ## Example
-```
+```sql
 SELECT bookCode, w.authorNo, a.authorNo, authorFirstName
 FROM Writing w, Author a
 WHERE w.authorNo = a.authorNo
@@ -149,7 +149,7 @@ bookCode    authorNo    authorNo    authorFirstName
 
 
 ## Inner join: equi-join
-```
+```sql
 SELECT bookTitle, authorLastName, pubName, pubDate
 FROM Author a, Writing w, Book b, Publisher p
 WHERE a.authorNo = w.authorNo
@@ -170,7 +170,7 @@ Judo                Lisa            Hatfield and   1985-02-24
 
 
 ## Inner join: non equi-join
-```
+```sql
 SELECT bookCode, price, bookGrade
 FROM BookPrice p, BookGrade g
 WHERE price BETWEEN minValue AND maxValue;
@@ -191,7 +191,7 @@ bookCode    price       bookGrade
 
 
 ## Outer join: left outer join
-```
+```sql
 SELECT authorLastName, bookCode
 FROM Author a LEFT OUTER JOIN Writing w
 ON a.authorNo = w.authorNo;
@@ -214,7 +214,7 @@ Beatrice
 
 
 ## Cross join
-```
+```sql
 SELECT bookCode, a.authorNo
 FROM Writing w, Author a;
 
@@ -288,7 +288,7 @@ bookCode    authorNo
 
 
 ## Self join
-```
+```sql
 SELECT c.pubName publisher, p.pubName parent
 FROM Publisher c, Publisher p
 WHERE c.parentPubCode = p.pubCode;
@@ -321,7 +321,7 @@ McMillan Publishin  Chuck Sawyer Books
 
 
 ## Subquery with WHERE
-```
+```sql
 SELECT staffLastName, salary
 FROM Staff s, StaffAssignment sa
 WHERE s.staffCode = sa.staffCode
@@ -350,7 +350,7 @@ Schindler      50000.0
 ## Single-row subquery
 - Who gets the highest paid?
 
-```
+```sql
 SELECT staffLastName
 FROM Staff s, StaffAssignment sa
 WHERE s.staffCode = sa.staffCode
@@ -364,7 +364,7 @@ Gupta
 
 
 ## Multi-row subquery
-```
+```sql
 SELECT staffLastName FROM Staff
 WHERE staffCode IN
  (SELECT staffCode FROM StaffAssignment
@@ -385,7 +385,7 @@ Schindler
 
 
 ## Subquery with HAVING
-```
+```sql
 SELECT branchNo, MIN(salary)
 FROM StaffAssignment
 GROUP BY branchNo
@@ -411,7 +411,7 @@ branchNo    MIN(salary)
 ## Subquery with FROM
 - Subquery could also be used as a table in the FROM clause, which could participate in join just like any table
 
-```
+```sql
 SELECT MIN(avgSalary)
 FROM
  (SELECT branchNo, AVG(salary) avgSalary
@@ -430,14 +430,14 @@ MIN(avgSalary)
 
 
 ## Subquery with UPDATE and DELETE
-```
+```sql
 UPDATE StaffAssignment
 SET salary = (SELECT salary FROM StaffAssignment
 	          WHERE staffCode = 7)
 WHERE salary = (SELECT MIN(salary) FROM StaffAssignment);
 ```
 
-```
+```sql
 DELETE FROM BookPrice
 WHERE bookCode = (SELECT bookCode FROM Book
 	              WHERE bookTitle = 'Secrets');
