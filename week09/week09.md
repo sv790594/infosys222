@@ -52,7 +52,7 @@
 
 - It is similar to a PRIMARY KEY constraint, except that a single table may have any number of UNIQUE constraints
 
-```
+```sql
 CREATE TABLE Contact (
  id INTEGER PRIMARY KEY NOT NULL,
  name TEXT,
@@ -84,7 +84,7 @@ CREATE TABLE Contact (
 
 - A DEFAULT constraint could be used together with a NOT NULL constraint
 
-```
+```sql
 CREATE TABLE MyTime (
  id INTEGER PRIMARY KEY NOT NULL,
  mytime DATE NOT NULL DEFAULT (DATETIME('now', 'localtime'))
@@ -98,7 +98,7 @@ CREATE TABLE MyTime (
 
 - Example: We could use a CHECK constraint to restrict the length of a particular column:
 
-```
+```sql
 CREATE TABLE Contact (
 id INTEGER PRIMARY KEY NOT NULL,
 name TEXT,
@@ -112,7 +112,7 @@ CHECK (LENGTH(phone)>=7)
 ## FOREIGN KEY
 - A FOREIGN KEY constraint ensures that where a key value in one table logically refers to data in another table, the data in the other table actually exists; it protects the referential integrity by enforcing the relationships between tables
 
-```
+```sql
 CREATE TABLE BookPrice
 (bookCode INTEGER NOT NULL,
  startDate DATE NOT NULL,
@@ -164,7 +164,7 @@ sqlite> PRAGMA foreign_keys = ON;
 ## CASE expression
 - A CASE expression works like a IF-THEN-ELSE in other programming languages; it allows us to do different things on each row of a SELECT statement based on the value of a column
 
-```
+```sql
 SELECT staffCode, role, salary, CASE
 WHEN LOWER(role) = 'branch manager' THEN salary*0.9
 WHEN LOWER(role) = 'sales person' THEN salary
@@ -179,7 +179,7 @@ WHERE s.roleID = r.roleID;
 ## CAST expression
 - A CAST expression is used to convert data from one type to another
 
-```
+```sql
 SELECT staffCode, CAST(salary AS INTEGER) salary
 FROM StaffAssignment;
 
@@ -221,7 +221,7 @@ staffCode   salary
 
 - There could only be one ORDER BY clause for a UNION or UNION ALL
 
-```
+```sql
 SELECT * FROM Book
 WHERE UPPER(bookType) = 'HOR'
 UNION
@@ -235,7 +235,7 @@ ORDER BY bookCode;
 ## INTERSECT
 - INTERSECT behaves similarly to UNION, but instead of showing the non-duplicating rows from the two SELECT statements, it shows only the duplicating rows in the result (but not in duplication)
 
-```
+```sql
 SELECT * FROM Book
 WHERE UPPER(bookType) = 'HOR'
 INTERSECT
@@ -253,7 +253,7 @@ bookCode    bookTitle   bookType    paperback
 ## EXCEPT
 - EXCEPT works similarly to UNION; it shows the rows resulted from the first SELECT statement but not the second one. Therefore unlike other relational operation, the order of the two SELECT statements matter
 
-```
+```sql
 SELECT * FROM Book
 WHERE UPPER(bookType) = 'HOR'
 EXCEPT
@@ -273,7 +273,7 @@ bookCode    bookTitle           bookType    paperback
 
 - In SQLite, view is read-only
 
-```
+```sql
 CREATE VIEW LatestBookPrice AS
 SELECT p1.bookCode, p2.startDate, p1.endDate, p1.price
 FROM BookPrice p1, 	
@@ -297,7 +297,7 @@ DROP VIEW LatestBookPrice;
 	- INSERT, DELETE, UPDATE or UPDATE OF column ON table or view
 	- WHEN clause (optional); OLD or NEW reference
 
-```
+```sql
 CREATE TABLE Log(x);
 
 CREATE TRIGGER InsertBookLog AFTER INSERT ON BOOK

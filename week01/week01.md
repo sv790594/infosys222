@@ -118,7 +118,7 @@ accNo | balance | type
 
 - Consider the relation __Account__, the command to get the balance from accNo 22222:
 
-```
+```sql
 SELECT balance
 FROM Account
 WHERE accNo = 22222;
@@ -128,7 +128,7 @@ WHERE accNo = 22222;
 
 ## SQL: example
 
-```
+```sql
 SELECT accNo, balance
 FROM Account
 WHERE type = ‘loan’
@@ -136,7 +136,7 @@ AND balance < -10000;
 ```
 <!-- .element: contenteditable="true" -->
 
-```
+```sql
 SELECT *
 FROM Account
 WHERE accNo > balance;
@@ -157,7 +157,7 @@ accNo | name | address
 
 - Suppose we have a related relation __Holder__, the command to get the names of holders with check accounts:
 
-```
+```sql
 SELECT name
 FROM Account, Holder
 WHERE Account.accNo = Holder.accNo
@@ -167,13 +167,13 @@ AND Account.type = 'check';
 
 
 ## SQL: SELECT-FROM-WHERE
-```
+```sql
 SELECT column1, column2, ...
 FROM relation1
 WHERE <conditions>;
 ```
 
-```
+```sql
 SELECT column1, column2, ...
 FROM relation1, relation2, ...
 WHERE <join conditions>
@@ -186,7 +186,7 @@ AND <conditions>;
 
 	Write a SQL command that lists all accounts (with accNo and type) that have a positive balance
 
-```
+```sql
 SELECT ...
 FROM ...
 WHERE ...

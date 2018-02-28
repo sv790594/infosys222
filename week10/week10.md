@@ -47,7 +47,7 @@
 
 
 ## Full table scan
-```
+```sql
 SELECT * FROM R WHERE <condition>;
 ```
 
@@ -60,7 +60,7 @@ SELECT * FROM R WHERE <condition>;
 
 
 ## Point query
-```
+```sql
 SELECT * FROM R WHERE score = 5;
 ```
 
@@ -72,7 +72,7 @@ SELECT * FROM R WHERE score = 5;
 
 
 ## Range query
-```
+```sql
 SELECT * FROM R WHERE score > 2 AND score < 10;
 ```
 
@@ -86,7 +86,7 @@ SELECT * FROM R WHERE score > 2 AND score < 10;
 ## Index
 - To be able to quickly find the first row with a specific score, the DBMS may build an index on the score column from the previous example
 
-```
+```sql
 CREATE INDEX scoreInd on R (score);
 
 DROP INDEX scoreInd;
@@ -119,7 +119,7 @@ DROP INDEX scoreInd;
 ## Index on multiple columns
 - An index can be defined on one or more columns:
 
-```
+```sql
 CREATE INDEX myIndex ON Book (bookTitle, bookType);
 ```
 
@@ -189,7 +189,7 @@ CREATE INDEX myIndex ON Book (bookTitle, bookType);
 
 - Transaction should always begin in a consistent state
 
-```
+```c++
 x = 40        Initial State [Consistent State]
 x = x - 10    Transaction [Modification]
 x = 30        Final State [Consistent State]
@@ -209,7 +209,7 @@ x = 30        Final State [Consistent State]
 
 
 ## Example: ATM
-```
+```sql
 BEGIN TRANSACTION;
 
 UPDATE Saving
