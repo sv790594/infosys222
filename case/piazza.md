@@ -39,7 +39,7 @@
 
 
 ## Post
-- A post is uniquely identified by a class ID and a post number. It has post type, post date, summary, detail, and whether it is pinned. Each post must be tagged with one or more folders
+- While a post associates with a class ID and a post number, a post ID is used as the unique identifier for each post among all classes. It has post type, post date, summary, detail, and whether it is pinned. Each post must be tagged with one or more folders
 
 - There are two post types: note or question. A note is a post that requires no answer; whereas a question expects answers. Each question associates at most with one student's answer and one instructor's answer
 
