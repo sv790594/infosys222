@@ -1,4 +1,4 @@
-# <i class="fas fa-database"></i> Case study
+# <i class="fas fa-suitcase"></i> Case study
 ### Piazza: Discussion Management System
 [<i class="fab fa-creative-commons"></i>](https://creativecommons.org/licenses/by/4.0/) [Johnny Chan](mailto:jh.chan@auckland.ac.nz) | <i class="fas fa-calendar"></i> 2018-03-16
 
