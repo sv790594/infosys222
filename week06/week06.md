@@ -201,6 +201,17 @@ To remove all transitive functional dependencies
 
 
 
+## Quiz 03
+- Derive a set of relations in 3NF from the data given in the following slide. Show each step of normalisation clearly
+
+- Draw a normalised logical ERD based on the result of normalisation
+
+
+## Monopoly title
+[![monopoly](monopoly.png) <!-- .element: height="650px" -->](monopoly.png)
+
+
+
 ## Physical data modelling
 - A [physical data model](http://en.wikipedia.org/wiki/Physical_data_model) is a representation of data design which takes into account the facility and constraint of a given DBMS
 
