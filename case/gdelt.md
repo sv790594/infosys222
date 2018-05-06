@@ -117,6 +117,6 @@
 -->
 </canvas>
 
-Database is awesome in <span class="country">everywhere</span>!
+The GDELT Project is awesome in <span class="country">everywhere</span>!
 
 [<i class="fas fa-print"></i>](?print-pdf#)
