@@ -1,11 +1,11 @@
-# <i class="fas fa-database"></i> Case study
-### [The GDELT Project](https://www.gdeltproject.org/)
+# <i class="fas fa-suitcase"></i> Case study
+### [The GDELT project](https://www.gdeltproject.org/)
 [<i class="fab fa-creative-commons"></i>](https://creativecommons.org/licenses/by/4.0/) [Johnny Chan](mailto:jh.chan@auckland.ac.nz) | <i class="fas fa-calendar"></i> 2018-05-04
 
 
 
 ## Background
-- [The GDELT Project](https://www.gdeltproject.org/) is a global database of society. It monitors the world's broadcast, print, and web news from every country. All events happened in every minute from anywhere are collected in the database and made available for anyone to access
+- [The GDELT project](https://www.gdeltproject.org/) is a global database of society. It monitors the world's broadcast, print, and web news from every country. All events happened in every minute from anywhere are collected in the database and made available for anyone to access
 
 - In particular, [the GDELT event database](http://data.gdeltproject.org/documentation/GDELT-Event_Codebook-V2.0.pdf) stores over 300 [categories](http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf) of activities around the world, where it updates every 15 minutes
 
