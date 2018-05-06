@@ -272,6 +272,8 @@ Very High        The Artist (2000)
 
 ## Sample output
 ```
+SELECT * FROM StaffStatus;
+
 Staff            Status           Duration                 
 ---------------  ---------------  -------------------------
 Deepak           Active           10 Year(s) 10 Month(s)   
@@ -287,6 +289,7 @@ Charles          Inactive         8 Year(s) 1 Month(s)
 Sean             Inactive         2 Year(s) 9 Month(s)     
 Ethel            Inactive         1 Year(s) 4 Month(s)     
 ```
+<!-- .element: style="font-size:90%" -->
 
 
 
