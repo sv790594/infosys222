@@ -7,7 +7,7 @@
 ## Background
 - Book is a sample SQLite database designed by INFOSYS 222
 
-- The database can be created by running a single [SQL script](book)
+- The database can be created by running a single [SQL script](../week07/book.sql)
 
 - The company behind the database runs a business of selling books with multiple branches. The database manages all the transactions, and all relevant information related to the books, authors and their staff members
 
