@@ -26,7 +26,7 @@
 
 
 ## Q1: Setup
-- Use appropriate SQLite commands and SQL statements to setup the working environment:
+- Write all the appropriate SQLite commands and SQL statements required to setup the working environment:
   - create a new SQLite database
   - create a table named Event that follows the specification; it must be consistent and compatible with the sample data
   - import the sample data into the Event table
