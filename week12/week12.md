@@ -53,7 +53,12 @@
 ## Data modelling
 - Draw a logical ERD in crow’s foot notation for the case
 
-- Please note: all important design decisions and assumptions made must be clearly 	listed. All entity sets (with specialisation / generalisation as needed), all attributes 	including primary and foreign keys, and all relationships including cardinalities must be shown as appropriate. Following good database design principle, the ERD should not contain redundant entity sets, relationships or attributes
+- Please note: all important design decisions and assumptions made must be clearly 	listed. All entity sets (with specialisation / generalisation as needed), all attributes including primary and foreign keys, and all relationships including cardinalities must be shown as appropriate. Following good database design principle, the ERD should not contain redundant entity sets, relationships or attributes
+
+
+## Does this solution satisfy the case?
+![fish-erd](fish-erd.png)
+<!-- .element: height="600px" -->
 
 
 ## Normalisation
