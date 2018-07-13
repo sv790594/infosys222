@@ -66,7 +66,7 @@ Week | Lecture | Lab
 
 - Forum: [Piazza](https://piazza.com/class/jdurts7reib4jz)
 
-- Reading: There is no textbook nor course book. Most readings for this course could be accessed online where [Talis links](https://rl.talis.com/3/auckland/lists/CF5084ED-0F96-DD03-C29B-45F0A4DC547D.html) are provided
+- Reading: There is no textbook nor course book. Most readings for this course could be accessed online via [Talis](https://rl.talis.com/3/auckland/lists/CF5084ED-0F96-DD03-C29B-45F0A4DC547D.html)
 
 - Practice: [Previous exams](https://www.library.auckland.ac.nz/search/INFOSYS%20222#uoa-lib-ms-exams)
 
