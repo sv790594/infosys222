@@ -9,15 +9,14 @@ Role | Name
 --- | ---
 Lecturer | Johnny Chan [<i class="far fa-envelope fa-pull-right"></i>](mailto:jh.chan@auckland.ac.nz)
 Coordinator | Udayangi Muthupoltotage [<i class="far fa-envelope fa-pull-right"></i>](mailto:u.muthupoltotage@auckland.ac.nz)
-Tutor | Kathryn Ren, Leah Filkin, Richard Zhou, Veronika Ott, Vivien Wang, Zubair Mohamed
+Tutor | Kathryn Ren, Leah Filkin, Veronika Ott, Vivien Wang, Zubair Mohamed
 Student | 200+ of you from A to Z
 
 
 
 ## <i class="fas fa-road"></i> Activity
 - Lecture (Week01 - Week12)
-	- Mon 9-11 @ Engineering Block 1, Room 401
-	- Tue 9-10 @ Sci Maths & Physics, Room G23
+	- Mon 10-12, Tue 2-3 @ Engineering Block 1, Room 439
 
 - Lab (Week02 - Week11)
 	- A 1.5-hr lab session
@@ -31,9 +30,11 @@ Student | 200+ of you from A to Z
 
 ## <i class="fas fa-list-ol"></i> Assessment
 - Internal (50%)
-	- A1: due on 2018-04-06 Fri 18:00 (15%)
-	- A2: due on 2018-05-25 Fri 18:00 (15%)
-	- Test: held on 2018-04-27 Fri 18:30-20:00 (20%)
+	- A1 (P1): due on 2018-08-03 Fri 18:00 (3%)
+	- A1 (P2): due on 2018-08-17 Fri 18:00 (12%)
+	- A2 (P1): due on 2018-09-21 Fri 18:00 (3%)
+	- A2 (P2): due on 2018-10-05 Fri 18:00 (12%)
+	- Test: held on 2018-09-14 Fri 18:30-20:00 (20%)
 
 - Exam (50%)
 	- A 3-hr closed book examination
@@ -78,11 +79,13 @@ Week | Lecture | Lab
 
 - Email: Use it for _private message_ only. Direct all administrative matter and lab material to the [coordinator](mailto:u.muthupoltotage@auckland.ac.nz); lecture material and assessment question to the [lecturer](mailto:jh.chan@auckland.ac.nz)
 
-- Office Hour: By appointment only (Tue 10-11 @ 260-441)
+- Office Hour: By appointment only (Tue 3-4 @ 260-441)
 
 - Class Rep: Anyone?
 
 - Twitter: [@infosys222](https://twitter.com/infosys222)
+
+- Sli.do: #IS222
 
 
 
