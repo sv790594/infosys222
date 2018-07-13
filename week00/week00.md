@@ -85,7 +85,7 @@ Week | Lecture | Lab
 
 - Twitter: [@infosys222](https://twitter.com/infosys222)
 
-- Sli.do: #IS222
+- Sli.do: [#IS222](http://sli.do/is222)
 
 
 
