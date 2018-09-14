@@ -1,6 +1,6 @@
 # <i class="fas fa-database"></i> Case study
 ### Hospital management system
-[<i class="fab fa-creative-commons"></i>](https://creativecommons.org/licenses/by/4.0/) [Johnny Chan](mailto:jh.chan@auckland.ac.nz) | <i class="fa fa-calendar"></i> 2018-07-30
+[<i class="fab fa-creative-commons"></i>](https://creativecommons.org/licenses/by/4.0/) [Johnny Chan](mailto:jh.chan@auckland.ac.nz) | <i class="fas fa-calendar"></i> 2018-07-30
 
 
 
