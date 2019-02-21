@@ -9,17 +9,18 @@ Role | Name
 --- | ---
 Lecturer | Johnny Chan [<i class="far fa-envelope fa-pull-right"></i>](mailto:jh.chan@auckland.ac.nz)
 Coordinator | Udayangi Muthupoltotage [<i class="far fa-envelope fa-pull-right"></i>](mailto:u.muthupoltotage@auckland.ac.nz)
-Tutor | Kathryn Ren, Leah Filkin, Veronika Ott, Vivien Wang, Zubair Mohamed
+Tutor | Jono Davis, Destin Gong, Harvey Lin, Jamie Weon
 Student | 200+ of you from A to Z
 
 
 
 ## <i class="fas fa-road"></i> Activity
 - Lecture (Week01 - Week12)
-	- Mon 10-12, Tue 2-3 @ Engineering Block 1, Room 439
+	- Tue 9-11 @ 401-439
+	- Wed 11-12 @ 109-B15
 
 - Lab (Week02 - Week11)
-	- A 1.5-hr lab session
+	- A 1.5-hr lab session with assessment
 	- Attend only your enrolled session
 
 - Working on your own
@@ -29,14 +30,15 @@ Student | 200+ of you from A to Z
 
 
 ## <i class="fas fa-list-ol"></i> Assessment
-- Internal (50%)
-	- A1 (P1): due on 2018-08-03 Fri 18:00 (3%)
-	- A1 (P2): due on 2018-08-17 Fri 18:00 (12%)
-	- A2 (P1): due on 2018-09-21 Fri 18:00 (3%)
-	- A2 (P2): due on 2018-10-05 Fri 18:00 (12%)
-	- Test: held on 2018-09-14 Fri 18:30-20:00 (20%)
+- Internal (60%)
+	- A1 (P1): due on 2019-03-02 Fri 18:00 (2%)
+	- A1 (P2): due on 2019-04-05 Fri 18:00 (8%)
+	- A2 (P1): due on 2019-05-17 Fri 18:00 (5%)
+	- A2 (P2): due on 2019-05-24 Fri 18:00 (15%)
+	- Lab: due on selected weeks (3,4,6,7,8,9,11) (10%)
+	- Test: held on 2019-05-03 Fri 18:30-20:00 (20%)
 
-- Exam (50%)
+- Exam (40%)
 	- A 3-hr closed book examination
 
 📢 Students __must__ [pass](https://uoa.custhelp.com/app/answers/detail/a_id/2748/~/marking-schemes-or-grade-scales-at-the-university-of-auckland) both internal and exam separately
@@ -62,9 +64,9 @@ Week | Lecture | Lab
 
 
 ## <i class="fas fa-wrench"></i> Resource
-- LMS: All course related material could be found in [Canvas](https://canvas.auckland.ac.nz/courses/30631) including announcements, lecture slides, lab slides, assessment specifications, and marks
+- LMS: All course related material could be found in [Canvas](https://canvas.auckland.ac.nz/courses/38860) including announcements, lecture slides, lab slides, assessment specifications, and marks
 
-- Forum: [Piazza](http://piazza.com/aucklanduni.ac.nz/semester22018/infosys222)
+- Forum: [Piazza](http://piazza.com/aucklanduni.ac.nz/semester12019/infosys222)
 
 - Reading: There is no textbook nor course book. Most readings for this course could be accessed online via [Talis reading lists](https://rl.talis.com/3/auckland/lists/CF5084ED-0F96-DD03-C29B-45F0A4DC547D.html)
 
@@ -79,7 +81,7 @@ Week | Lecture | Lab
 
 - Email: Use it for _private message_ only. Direct all administrative matter and lab material to the [coordinator](mailto:u.muthupoltotage@auckland.ac.nz); lecture material and assessment question to the [lecturer](mailto:jh.chan@auckland.ac.nz)
 
-- Office Hour: By appointment only (Tue 3-4 @ 260-441)
+- Office Hour: By appointment only (Tue 11-12 @ 260-441)
 
 - Class Rep: Anyone?
 
