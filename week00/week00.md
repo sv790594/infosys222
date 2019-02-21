@@ -68,7 +68,7 @@ Week | Lecture | Lab
 
 - Forum: [Piazza](http://piazza.com/aucklanduni.ac.nz/semester12019/infosys222)
 
-- Reading: There is no textbook nor course book. Most readings for this course could be accessed online via [Talis reading lists](https://rl.talis.com/3/auckland/lists/CF5084ED-0F96-DD03-C29B-45F0A4DC547D.html)
+- Reading: There is no textbook nor course book. Most readings for this course could be accessed online via [Talis reading lists](https://rl.talis.com/3/auckland/lists/7802C21C-4BDD-E5F6-B995-2891E3861399.html)
 
 - Practice: [Previous exams](https://www.library.auckland.ac.nz/search/INFOSYS%20222#uoa-lib-ms-exams)
 
