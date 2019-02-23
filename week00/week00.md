@@ -31,7 +31,7 @@ Student | 200+ of you from A to Z
 
 ## <i class="fas fa-list-ol"></i> Assessment
 - Internal (60%)
-	- A1 (P1): due on 2019-03-02 Fri 18:00 (2%)
+	- A1 (P1): due on 2019-03-22 Fri 18:00 (2%)
 	- A1 (P2): due on 2019-04-05 Fri 18:00 (8%)
 	- A2 (P1): due on 2019-05-17 Fri 18:00 (5%)
 	- A2 (P2): due on 2019-05-24 Fri 18:00 (15%)
