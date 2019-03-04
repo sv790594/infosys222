@@ -32,7 +32,7 @@
 ## Class
 - A class is composed of class ID, class number, name, estimated size, start date, status and url. The class ID is used as unique identifier, whereas the class number and name are common references used in the school
 
-- When a class is created, it must be associated with a school (e.g. The University of Auckland) and a term (e.g. Semester 1 2018). A term is named specifically to follow a school's convention; and a school must register with one domain or more (e.g. aucklanduni.ac.nz and auckland.ac.nz)
+- When a class is created, it must be associated with a school (e.g. The University of Auckland) and a term (e.g. Semester 1 2019). A term is named specifically to follow a school's convention; and a school must register with one domain or more (e.g. aucklanduni.ac.nz and auckland.ac.nz)
 
 - The instructor who creates a class is always the first account enrolled; and a list of folders (e.g. lecture, lab, general etc) is defined to manage posts
 
