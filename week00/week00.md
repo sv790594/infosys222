@@ -9,15 +9,15 @@ Role | Name
 --- | ---
 Lecturer | Johnny Chan [<i class="far fa-envelope fa-pull-right"></i>](mailto:jh.chan@auckland.ac.nz)
 Coordinator | Udayangi Muthupoltotage [<i class="far fa-envelope fa-pull-right"></i>](mailto:u.muthupoltotage@auckland.ac.nz)
-Tutor | Jono Davis, Destin Gong, Harvey Lin, Jamie Weon
+Tutor | Jono Davis, Haley Duong, Jing Geng, Destin Gong, Mahmudul Hasan, Jamie Weon
 Student | 200+ of you from A to Z
 
 
 
 ## <i class="fas fa-road"></i> Activity
 - Lecture (Week01 - Week12)
-	- Tue 9-11 @ 401-439
-	- Wed 11-12 @ 109-B15
+	- Mon 3-5 @ 260-092
+	- Tue 2-3 @ 260-092
 
 - Lab (Week02 - Week11)
 	- A 1.5-hr lab session with assessment
@@ -31,12 +31,12 @@ Student | 200+ of you from A to Z
 
 ## <i class="fas fa-list-ol"></i> Assessment
 - Internal (60%)
-	- A1 (P1): due on 2019-03-02 Fri 18:00 (2%)
-	- A1 (P2): due on 2019-04-05 Fri 18:00 (8%)
-	- A2 (P1): due on 2019-05-17 Fri 18:00 (5%)
-	- A2 (P2): due on 2019-05-24 Fri 18:00 (15%)
+	- A1 (P1): due on 2019-08-09 Fri 18:00 (2%)
+	- A1 (P2): due on 2019-08-23 Fri 18:00 (8%)
+	- A2 (P1): due on 2019-10-04 Fri 18:00 (5%)
+	- A2 (P2): due on 2019-10-11 Fri 18:00 (15%)
 	- Lab: due on selected weeks (3,4,6,7,8,9,11) (10%)
-	- Test: held on 2019-05-03 Fri 18:30-20:00 (20%)
+	- Test: held on 2019-09-20 Fri 18:30-20:00 (20%)
 
 - Exam (40%)
 	- A 3-hr closed book examination
@@ -81,13 +81,13 @@ Week | Lecture | Lab
 
 - Email: Use it for _private message_ only. Direct all administrative matter and lab material to the [coordinator](mailto:u.muthupoltotage@auckland.ac.nz); lecture material and assessment question to the [lecturer](mailto:jh.chan@auckland.ac.nz)
 
-- Office Hour: By appointment only (Tue 11-12 @ 260-441)
+- Office Hour: By appointment only (Tue 1-2 @ 260-441)
 
 - Class Rep: Anyone?
 
 - Twitter: [@infosys222](https://twitter.com/infosys222)
 
-- Sli.do: [#IS222](http://sli.do/is222)
+- Slido: [#INFOSYS222](https://canvas.auckland.ac.nz/courses/38861/modules/items/674768)
 
 
 
