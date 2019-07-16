@@ -66,7 +66,7 @@ Week | Lecture | Lab
 ## <i class="fas fa-wrench"></i> Resource
 - LMS: All course related material could be found in [Canvas](https://canvas.auckland.ac.nz/courses/38860) including announcements, lecture slides, lab slides, assessment specifications, and marks
 
-- Forum: [Piazza](http://piazza.com/aucklanduni.ac.nz/semester12019/infosys222)
+- Forum: [Piazza](http://piazza.com/aucklanduni.ac.nz/semester22019/infosys222)
 
 - Reading: There is no textbook nor course book. Most readings for this course could be accessed online via [Talis reading lists](https://rl.talis.com/3/auckland/lists/7802C21C-4BDD-E5F6-B995-2891E3861399.html)
 
