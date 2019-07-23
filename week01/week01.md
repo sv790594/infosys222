@@ -131,7 +131,7 @@ WHERE accNo = 22222;
 ```sql
 SELECT accNo, balance
 FROM Account
-WHERE type = ‘loan’
+WHERE type = 'loan'
 AND balance < -10000;
 ```
 <!-- .element: contenteditable="true" -->
