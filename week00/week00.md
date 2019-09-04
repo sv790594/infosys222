@@ -81,7 +81,7 @@ Week | Lecture | Lab
 
 - Email: Use it for _private message_ only. Direct all administrative matter and lab material to the [coordinator](mailto:u.muthupoltotage@auckland.ac.nz); lecture material and assessment question to the [lecturer](mailto:jh.chan@auckland.ac.nz)
 
-- Office Hour: By appointment only (Tue 1-2 @ 260-441)
+- Office Hour: By appointment only (Tue 1-2 @ 260-474)
 
 - Class Rep: Anyone?
 
