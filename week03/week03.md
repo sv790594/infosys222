@@ -188,7 +188,7 @@
 
 
 ## Example
-![emp_course](emp_course.svg)
+![emp_course](emp_course.png)
 <small>Figure 3.7: Resolving a binary many-to-many relationship into an associative entity set</small>
 
 
