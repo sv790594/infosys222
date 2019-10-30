@@ -176,6 +176,11 @@ comments_made_at_AGM)
 - Please note: all important design decisions and assumptions made must be clearly 	listed. All entity sets (with specialisation / generalisation as needed), all attributes 	including primary and foreign keys, and all relationships including cardinalities must be shown as appropriate. Following good database design principle, the ERD should not contain redundant entity sets, relationships or attributes
 
 
+## Does this solution satisfy the case?
+![gym-erd](gym-erd.png)
+<!-- .element: height="600px" -->
+
+
 
 # <i class="fas fa-briefcase"></i> Case study
 ### Auckland linen supplies<!-- .slide: data-background="linen.jpg" data-background-transition="zoom" -->
