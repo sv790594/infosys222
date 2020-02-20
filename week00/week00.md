@@ -79,7 +79,7 @@ Week | Lecture | Lab
 ## <i class="fas fa-phone-volume"></i> Communication
 - Forum: This is the primary platform for Q&A related to any course material and administrative matter. Please check if your question has been asked and answered before posting one
 
-- Email: Use it for _private message_ only. Direct all administrative matter and lab material to the [coordinator](mailto:u.muthupoltotage@auckland.ac.nz); lecture material and assessment question to the [lecturer](mailto:jh.chan@auckland.ac.nz)
+- Email: Use it for _private message_ only. Direct all administrative matter and lab material to the [coordinator](mailto:mahmudul.hasan@auckland.ac.nz); lecture material and assessment question to the [lecturer](mailto:jh.chan@auckland.ac.nz)
 
 - Office Hour: By appointment only (Wed 2-3 @ 260-474)
 
