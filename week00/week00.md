@@ -16,12 +16,11 @@ Student | 150+ of you from A to Z
 
 ## <i class="fas fa-road"></i> Activity
 - Lecture (Week01 - Week12)
-	- Tue 10-11 @ 260-092
-	- Wed 12-2 @ 401-439
+	- Tue 10-11 via video recording
+	- Wed 12-2 via video recording
 
 - Lab (Week02 - Week11)
-	- A 1.5-hr lab session with assessment
-	- Attend only your enrolled session
+	- A 1.5-hr lab session via video recording
 
 - Working on your own
 	- No less than 5.5 hours per week (reading, practicing etc)
@@ -32,14 +31,14 @@ Student | 150+ of you from A to Z
 ## <i class="fas fa-list-ol"></i> Assessment
 - Internal (60%)
 	- A1 (P1): due on 2020-03-20 Fri 18:00 (2%)
-	- A1 (P2): due on 2020-04-03 Fri 18:00 (8%)
-	- A2 (P1): due on 2020-05-15 Fri 18:00 (5%)
-	- A2 (P2): due on 2020-05-22 Fri 18:00 (15%)
-	- Lab: due on selected weeks (3,4,6,7,8,9,11) (10%)
-	- Test: held on 2019-05-01 Fri 18:30-20:00 (20%)
+	- A1 (P2): due on 2020-04-10 Fri 18:00 (8%)
+	- A2 (P1): due on 2020-05-22 Fri 18:00 (5%)
+	- A2 (P2): due on 2020-05-29 Fri 18:00 (15%)
+	- Lab: available and due on selected weeks (3,4,6,7,8,9,11) Thu 15:00 to 16:00 (10%)
+	- Test: available and due on 2019-05-08 Fri 08:00 to 2019-05-09 Sat 08:00 (20%)
 
 - Exam (40%)
-	- A 3-hr closed book examination
+	- A 3-hr examination
 
 📢 Students __must__ [pass](https://uoa.custhelp.com/app/answers/detail/a_id/2748/~/marking-schemes-or-grade-scales-at-the-university-of-auckland) both internal and exam separately
 
@@ -81,7 +80,7 @@ Week | Lecture | Lab
 
 - Email: Use it for _private message_ only. Direct all administrative matter and lab material to the [coordinator](mailto:mahmudul.hasan@auckland.ac.nz); lecture material and assessment question to the [lecturer](mailto:jh.chan@auckland.ac.nz)
 
-- Office Hour: By appointment only (Wed 2-3 @ 260-474)
+- Office Hour: By appointment only (Wed 2-3)
 
 - Class Rep: Anyone?
 
