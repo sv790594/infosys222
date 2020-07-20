@@ -63,7 +63,7 @@ Week | Lecture | Lab
 
 
 ## <i class="fas fa-wrench"></i> Resource
-- LMS: All course related material could be found in [Canvas](https://canvas.auckland.ac.nz/courses/46930) including announcements, lecture slides, lab slides, assessment specifications, and marks
+- LMS: All course related material could be found in [Canvas](https://canvas.auckland.ac.nz/courses/46856) including announcements, lecture slides, lab slides, assessment specifications, and marks
 
 - Forum: [Piazza](https://piazza.com/aucklanduni.ac.nz/semester22020/infosys222/)
 
