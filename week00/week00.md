@@ -32,8 +32,8 @@ Student | 150+ of you from A to Z
 - Internal (60%)
 	- A1 (P1): due on 2020-08-14 Fri 18:00 (2%)
 	- A1 (P2): due on 2020-08-28 Fri 18:00 (8%)
-	- A2 (P1): due on 2020-05-22 Fri 18:00 (5%)
-	- A2 (P2): due on 2020-05-29 Fri 18:00 (15%)
+	- A2 (P1): due on 2020-10-09 Fri 18:00 (5%)
+	- A2 (P2): due on 2020-10-16 Fri 18:00 (15%)
 	- Lab: due on selected weeks (3,4,6,7,8,9,11) (10%)
 	- Test: held on 2020-09-25 Fri 18:30-20:00 (20%)
 
