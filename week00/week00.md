@@ -71,7 +71,7 @@ Week | Lecture | Lab
 
 - Practice: [Previous exams](https://www.library.auckland.ac.nz/search/INFOSYS%20222#uoa-lib-ms-exams)
 
-- Software: [Draw.io](https://www.draw.io), [SQLite](http://sqlite.org/) and [Atom](https://atom.io/)
+- Software: [Diagrams.net](https://www.diagrams.net/), [SQLite](http://sqlite.org/) and [Atom](https://atom.io/)
 
 
 
@@ -86,7 +86,7 @@ Week | Lecture | Lab
 
 - Twitter: [@infosys222](https://twitter.com/infosys222)
 
-- Slido: [#IS222](https://app.sli.do/event/k9ehihkn/)
+- Slido: [#IS222](https://app.sli.do/event/pedkkauo)
 
 
 
