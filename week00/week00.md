@@ -9,18 +9,18 @@ Role | Name
 --- | ---
 Lecturer | Johnny Chan [<i class="far fa-envelope fa-pull-right"></i>](mailto:jh.chan@auckland.ac.nz)
 Coordinator | Mahmudul Hasan [<i class="far fa-envelope fa-pull-right"></i>](mailto:mahmudul.hasan@auckland.ac.nz)
-Tutor | Pirunthan Balaras, Jing Yuan Geng,  Destin Gong, Caleb Pahina, David Sum, Zachary Suryahimsa
+Tutor | Tom van Dinther, Haley Duong, Jing Yuan Geng, David Sum, Zachary Suryahimsa
 Student | 150+ of you from A to Z
 
 
 
 ## <i class="fas fa-road"></i> Activity
 - Lecture (Week01 - Week12)
-	- Tue 10-11 via video recording
-	- Wed 12-2 via video recording
+	- Mon 1-3 @ 109-B15
+	- Tue 2-3 @ 401-401
 
 - Lab (Week02 - Week11)
-	- A 1.5-hr lab session via video recording
+	- A 1.5-hr lab session
 
 - Working on your own
 	- No less than 5.5 hours per week (reading, practicing etc)
@@ -30,12 +30,12 @@ Student | 150+ of you from A to Z
 
 ## <i class="fas fa-list-ol"></i> Assessment
 - Internal (60%)
-	- A1 (P1): due on 2020-03-20 Fri 18:00 (2%)
-	- A1 (P2): due on 2020-04-10 Fri 18:00 (8%)
+	- A1 (P1): due on 2020-08-14 Fri 18:00 (2%)
+	- A1 (P2): due on 2020-08-28 Fri 18:00 (8%)
 	- A2 (P1): due on 2020-05-22 Fri 18:00 (5%)
 	- A2 (P2): due on 2020-05-29 Fri 18:00 (15%)
-	- Lab: available and due on selected weeks (3,4,6,7,8,9,11) Thu 15:00 to 16:00 (10%)
-	- Test: available and due on 2019-05-08 Fri 08:00 to 2019-05-09 Sat 08:00 (20%)
+	- Lab: due on selected weeks (3,4,6,7,8,9,11) (10%)
+	- Test: held on 2020-09-25 Fri 18:30-20:00 (20%)
 
 - Exam (40%)
 	- A 3-hr examination
@@ -65,7 +65,7 @@ Week | Lecture | Lab
 ## <i class="fas fa-wrench"></i> Resource
 - LMS: All course related material could be found in [Canvas](https://canvas.auckland.ac.nz/courses/46930) including announcements, lecture slides, lab slides, assessment specifications, and marks
 
-- Forum: [Piazza](https://piazza.com/aucklanduni.ac.nz/semester12020/infosys222/)
+- Forum: [Piazza](https://piazza.com/aucklanduni.ac.nz/semester22020/infosys222/)
 
 - Reading: There is no textbook nor course book. Most readings for this course could be accessed online via [Talis reading lists](https://rl.talis.com/3/auckland/lists/C446B905-A7A4-CC2E-20C9-E8F0C0B4DD33.html)
 
@@ -80,7 +80,7 @@ Week | Lecture | Lab
 
 - Email: Use it for _private message_ only. Direct all administrative matter and lab material to the [coordinator](mailto:mahmudul.hasan@auckland.ac.nz); lecture material and assessment question to the [lecturer](mailto:jh.chan@auckland.ac.nz)
 
-- Office Hour: By appointment only (Wed 2-3)
+- Office Hour: By appointment only (Tue 3-4)
 
 - Class Rep: Anyone?
 
