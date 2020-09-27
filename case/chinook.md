@@ -393,7 +393,7 @@ Minha Historia                                      34          33.66
 ```
 Name             Age
 ---------------  ---------------
-Michael          46
+Michael          47
 ```
 
 
@@ -524,7 +524,7 @@ United Kingdom   3                0
 ```
 Name        Year
 ----------  ----------------
-Margaret    16.3581573031779
+Margaret    17.4204790984906
 ```
 
 
