@@ -87,7 +87,7 @@ Week | Lecture | Lab
 
 - Twitter: [@infosys222](https://twitter.com/infosys222)
 
-- Slido: [#IS222](https://admin.sli.do/event/z03lpa4p)
+- Slido: [#IS222](https://app.sli.do/event/z03lpa4p)
 
 
 
