@@ -34,7 +34,7 @@ Student | 120+ of you from A to Z
 	- A1 (P1): due on 2021-03-19 Fri 18:00 (2%)
 	- A1 (P2): due on 2021-04-02 Fri 18:00 (8%)
 	- A2 (P1): due on 2021-05-14 Fri 18:00 (5%)
-	- A2 (P2): due on 2021-10-21 Fri 18:00 (15%)
+	- A2 (P2): due on 2021-05-21 Fri 18:00 (15%)
 	- Lab: due on selected weeks (3,4,6,7,8,9,11) (10%)
 	- Test: held on 2021-04-30 Fri 18:30-20:00 (20%)
 
