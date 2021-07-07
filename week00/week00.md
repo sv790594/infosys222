@@ -10,33 +10,33 @@ Role | Name
 Lecturer | Johnny Chan [<i class="far fa-envelope fa-pull-right"></i>](mailto:jh.chan@auckland.ac.nz)
 Coordinator | Mahmudul Hasan [<i class="far fa-envelope fa-pull-right"></i>](mailto:mahmudul.hasan@auckland.ac.nz)
 Coordinator | Jing Yuan Geng [<i class="far fa-envelope fa-pull-right"></i>](mailto:gjin955@aucklanduni.ac.nz)
-Tutor | Angela Shen, David Sum, Zachary Suryahimsa, Songyan Teng
+Tutor | Angela Shen, David Sum, Zachary Suryahimsa, Yatai Tian
 Student | 120+ of you from A to Z
 
 
 
 ## <i class="fas fa-road"></i> Activity
 - Lecture (Week01 - Week12)
-	- Mon 3-4 @ 405-460
-	- Tue 3-5 @ 405-460
+	- Mon 12-1 @ 260-092
+	- Tue 12-2 @ 260-073
 
 - Lab (Week02 - Week11)
 	- A 1.5-hr lab session
 
 - Working on your own
-	- No less than 5.5 hours per week (reading, practicing etc)
+	- No less than 5.5 hours per week (reading, practicing, assessment etc)
 	- Knowledge → Understanding → Skill
 
 
 
 ## <i class="fas fa-list-ol"></i> Assessment
 - Internal (60%)
-	- A1 (P1): due on 2021-03-19 Fri 18:00 (2%)
-	- A1 (P2): due on 2021-04-02 Fri 18:00 (8%)
-	- A2 (P1): due on 2021-05-14 Fri 18:00 (5%)
-	- A2 (P2): due on 2021-05-21 Fri 18:00 (15%)
+	- A1 (P1): due on 2021-08-06 Fri 18:00 (2%)
+	- A1 (P2): due on 2021-08-20 Fri 18:00 (8%)
+	- A2 (P1): due on 2021-10-01 Fri 18:00 (5%)
+	- A2 (P2): due on 2021-10-08 Fri 18:00 (15%)
 	- Lab: due on selected weeks (3,4,6,7,8,9,11) (10%)
-	- Test: held on 2021-04-30 Fri 18:30-20:00 (20%)
+	- Test: held on 2021-09-17 Fri 18:30-20:00 (20%)
 
 - Exam (40%)
 	- A 3-hr examination
@@ -64,11 +64,11 @@ Week | Lecture | Lab
 
 
 ## <i class="fas fa-wrench"></i> Resource
-- LMS: All course related material could be found in [Canvas](https://canvas.auckland.ac.nz/courses/61350) including announcements, lecture slides, lab slides, assessment specifications, and marks
+- LMS: All course related material could be found in [Canvas](https://canvas.auckland.ac.nz) including announcements, lecture slides, lab slides, assessment specifications, and marks
 
-- Forum: [Piazza](https://piazza.com/aucklanduni.ac.nz/semester12021/infosys222)
+- Forum: [Piazza](https://piazza.com/aucklanduni.ac.nz/semester22021/infosys222)
 
-- Reading: There is no textbook nor course book. Most readings for this course could be accessed online via [Talis reading lists](https://rl.talis.com/3/auckland/lists/6704BB3F-93A1-2B89-6A36-311694AF908B.html)
+- Reading: There is no textbook nor course book. Most readings for this course could be accessed online via [Talis reading lists](https://auckland.rl.talis.com/courses/infosys222.html)
 
 - Practice: [Previous exams](https://www.library.auckland.ac.nz/search/INFOSYS%20222#uoa-lib-ms-exams)
 
@@ -81,13 +81,13 @@ Week | Lecture | Lab
 
 - Email: Use it for _private message_ only. Direct all administrative matter and lab material to the [coordinator](mailto:mahmudul.hasan@auckland.ac.nz); lecture material and assessment question to the [lecturer](mailto:jh.chan@auckland.ac.nz)
 
-- Office Hour: By appointment only (Mon 2-3)
+- Office Hour: By appointment only (Mon 1-2)
 
-- Class Rep: Anyone?
+- Class Rep: 1 x on-campus and 1 x offshore
 
 - Twitter: [@infosys222](https://twitter.com/infosys222)
 
-- Slido: [#IS222](https://app.sli.do/event/z03lpa4p)
+- Slido: [#IS222](https://app.sli.do/event/f6z4t4mm)
 
 
 
