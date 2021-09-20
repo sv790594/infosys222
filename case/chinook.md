@@ -7,7 +7,7 @@
 ## Background
 - [Chinook](https://github.com/lerocha/chinook-database) is a sample database being commonly used for demos and testing purposes on multiple products including SQLite. It is an open source project
 
-- The database can be created by running a single [SQL script](https://johnny723.github.io/infosys222/case/chinook.sql)
+- The database can be created by running a single [SQL script](https://github.com/noct15/infosys222/raw/gh-pages/case/chinook.sql)
 
 - The company Chinook runs a business of selling tracks and albums of music and video online. The database manages all the transactions, and all relevant information related to the products and customers
 
