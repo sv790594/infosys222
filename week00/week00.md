@@ -9,7 +9,7 @@ Role | Name
 --- | ---
 Lecturer | Johnny Chan [<i class="far fa-envelope fa-pull-right"></i>](mailto:jh.chan@auckland.ac.nz)
 Coordinator | Mahmudul Hasan [<i class="far fa-envelope fa-pull-right"></i>](mailto:mahmudul.hasan@auckland.ac.nz)
-Tutor | Lucas Betts, Kenneth Mariono, William Tam, Rasika Wattege
+Tutor | Lucas Betts, Kenneth Mariono, William Tam, Rasika Wattege, Zachary Hankin
 Student | 150+ of you from A to Z
 
 
