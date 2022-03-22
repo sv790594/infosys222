@@ -138,11 +138,11 @@ key | key | key
 
 
 ## Specialisation and generalisation
-- Specialization
+- Specialisation
 	- The process of defining one or more subsets from the superset and establishing superset/subset relationships in a top down fashion
 
-- Generalization
-	- The process of defining a more general entity set from a set of more specialized entity sets in a bottom-up fashion
+- Generalisation
+	- The process of defining a more general entity set from a set of more specialised entity sets in a bottom-up fashion
 
 
 ## Specialisation
