@@ -272,7 +272,7 @@ CREATE TABLE OrderDetail(
 
 
 
-## Q10: Bottom 10 products (1%)
+## Q10: Bottom 10 products (0.2%)
 - You are interested to know the bottom 6th to 15th stocked products in the inventory. Write a single SQL statement to retrieve that information from the Product table with both the ProductName and UnitsInStock columns
 
 
