@@ -400,6 +400,7 @@ Geitost                           2.5        112
 ```
 
 
+
 ## Q04: What is the number (0.2%)
 - You need to locate the phone number of a shipper company named Speedy Express. Write a single SQL statement to retrieve only that piece of information from the appropriate table. Your SQL statement should cater for different casing scenarios
 
