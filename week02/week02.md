@@ -1,10 +1,10 @@
-# <i class="fas fa-database"></i> Week 02
+# 🗄 Week 02
 ### Relational model
 [<i class="fab fa-creative-commons"></i>](https://creativecommons.org/licenses/by/4.0/) [Johnny Chan](mailto:jh.chan@auckland.ac.nz)
 
 
 
-## <i class="fas fa-history"></i> Previously ...
+## 💬 Previously ...
 - Database and DBMS
 
 - The intuitive concept of a relation as a two-dimensional table
@@ -14,7 +14,7 @@
 
 
 
-## <i class="fas fa-list-alt"></i> Agenda
+## 📌 Agenda
 - What is the relational data model?
 
 - What is SQL?
@@ -305,7 +305,7 @@ WHERE title = 'Interstellar';
 
 
 
-## <i class="fa fa-list-alt"></i> Summary
+## 🗒 Summary
 - By now you should:
 
 	- know the vocabulary of the relational data model: relation, tuple, attribute, domain, schema, key, constraint etc
@@ -319,7 +319,7 @@ WHERE title = 'Interstellar';
 	- have gained more knowledge in SQL
 
 
-## <i class="fa fa-book"></i> Reading
+## 📚 Reading
 - Essential
 	- [The Relational Model of Data (p17-37)
 ](http://infolab.stanford.edu/~ullman/fcdb/ch2.pdf)
@@ -328,11 +328,11 @@ WHERE title = 'Interstellar';
 	- [Codd (1970): A Relational Model of Data for Large Shared Data Banks](https://auckland.rl.talis.com/users/C899F913-6185-B4B9-3892-600310630A5F/bookmarks/EC836A2D-ACC5-25AE-A61E-BD0DFCA98301.html)
 
 
-## <i class="fas fa-calendar-alt"></i> Schedule
+## 🗓 Schedule
 Week | Lecture
 --- | ---
-01 | Introduction <i class="fas fa-check fa-pull-right"></i>
-02 | Relational model <i class="fas fa-check fa-pull-right"></i>
+01 | Introduction ✅
+02 | Relational model ✅
 03 | ER modelling
 04 | Data modelling
 05 | Data modelling
@@ -346,7 +346,7 @@ Week | Lecture
 
 
 
-# THE END
+# 🌏 THE END
 <canvas width=400 height=400 class="anything">
 <!--
 {
@@ -423,4 +423,4 @@ Week | Lecture
 
 Database is awesome in <span class="country">everywhere</span>!
 
-[<i class="fas fa-print"></i>](?print-pdf#)
+[🖨](?print-pdf)
