@@ -1,23 +1,23 @@
-# <i class="fas fa-database"></i> Week 00
+# 🗄 Week 00
 ### Practical information
-[<i class="fab fa-creative-commons"></i>](https://creativecommons.org/licenses/by/4.0/) [Johnny Chan](mailto:jh.chan@auckland.ac.nz)
+[©](https://creativecommons.org/licenses/by/4.0/) [Johnny Chan](mailto:jh.chan@auckland.ac.nz)
 
 
 
-## <i class="fas fa-users"></i> People
+## 👥 People
 Role | Name
 --- | ---
-Lecturer | Johnny Chan [<i class="far fa-envelope fa-pull-right"></i>](mailto:jh.chan@auckland.ac.nz)
-Coordinator | Mahmudul Hasan [<i class="far fa-envelope fa-pull-right"></i>](mailto:mahmudul.hasan@auckland.ac.nz)
-Tutor | Lucas Betts, Kenneth Mariono, William Tam, Rasika Wattege, Zachary Suryahimsa
+Lecturer | [Johnny Chan](mailto:jh.chan@auckland.ac.nz)
+Coordinator | [Yuming Li](mailto:yuming.li@auckland.ac.nz), [William Tam](mailto:william.tam@auckland.ac.nz)
+Tutor | Jack Boakes, Kenneth Mariono, Nadia Suhaimi, Zachary Suryahimsa
 Student | 150+ of you from A to Z
 
 
 
-## <i class="fas fa-road"></i> Activity
+## 🤼 Activity
 - Lecture (Week01 - Week12)
-	- Tue 12-2 @ 102-G36
-	- Wed 12-1 @ 102-G36
+	- Tue 2-4 @ 303-102
+	- Wed 1-2 @ 423-342
 
 - Lab (Week02 - Week11)
 	- A 1.5-hr lab session
@@ -28,14 +28,14 @@ Student | 150+ of you from A to Z
 
 
 
-## <i class="fas fa-list-ol"></i> Assessment
+## 📊 Assessment
 - Internal (60%)
-	- A1 (P1): due on 2022-03-18 Fri 18:00 (2%)
-	- A1 (P2): due on 2021-04-01 Fri 18:00 (8%)
-	- A2 (P1): due on 2021-05-13 Fri 18:00 (5%)
-	- A2 (P2): due on 2021-05-20 Fri 18:00 (15%)
+	- A1 (P1): due on 2022-08-05 Fri 08:00 (2%)
+	- A1 (P2): due on 2022-08-19 Fri 08:00 (8%)
+	- A2 (P1): due on 2022-09-23 Fri 08:00 (5%)
+	- A2 (P2): due on 2022-09-30 Fri 08:00 (15%)
 	- Lab: due on selected weeks (3,4,6,7,8,9,11) (10%)
-	- Test: held on 2021-04-14 Thu 18:30-20:00 (20%)
+	- Test: held on 2022-09-12 Mon 18:30-20:00 (20%)
 
 - Exam (40%)
 	- A 3-hr examination
@@ -44,7 +44,7 @@ Student | 150+ of you from A to Z
 
 
 
-## <i class="fas fa-calendar-alt"></i> Schedule
+## 🗓 Schedule
 Week | Lecture | Lab
 --- | --- | ---
 01 | Introduction | No lab
@@ -62,10 +62,10 @@ Week | Lecture | Lab
 
 
 
-## <i class="fas fa-wrench"></i> Resource
+## 🧰 Resource
 - LMS: All course related material could be found in [Canvas](https://canvas.auckland.ac.nz) including announcements, lecture slides, lab slides, assessment specifications, and marks
 
-- Forum: [Piazza](https://piazza.com/aucklanduni.ac.nz/semester22021/infosys222)
+- Forum: [Piazza](https://piazza.com)
 
 - Reading: There is no textbook nor course book. Most readings for this course could be accessed online via [Talis reading lists](https://auckland.rl.talis.com/courses/infosys222.html)
 
@@ -75,22 +75,22 @@ Week | Lecture | Lab
 
 
 
-## <i class="fas fa-phone-volume"></i> Communication
+## ☎️ Communication
 - Forum: This is the primary platform for Q&A related to any course material and administrative matter. Please check if your question has been asked and answered before posting one
 
-- Email: Use it for _private message_ only. Direct all administrative matter, marking issue and lab material to the [coordinator](mailto:mahmudul.hasan@auckland.ac.nz); lecture material and assessment question to the [lecturer](mailto:jh.chan@auckland.ac.nz)
+- Email: Use it for _private message_ only. Direct all administrative matter, marking issue and lab material to the coordinator; lecture material and assessment question to the lecturer
 
-- Office Hour: By appointment only (Tue 2-3)
+- Office Hour: By appointment only (Wed 2-3)
 
-- Class Rep: Anyone?
+- Class Rep: [Alex Lou](clou785@aucklanduni.ac.nz)
 
 - Twitter: [@infosys222](https://twitter.com/infosys222)
 
-- Slido: [#IS222](https://app.sli.do/event/4ceTu6ztAyZySk5V97eNZh)
+- Slido: [#IS222](https://wall.sli.do/event/7qx2g8DrZFnSUzUff1LDEw?section=f0c64417-0abc-4faa-b5dc-40d753a39f31)
 
 
 
-# THE END
+# 🌏 THE END
 <canvas width=400 height=400 class="anything">
 <!--
 {
@@ -167,4 +167,4 @@ Week | Lecture | Lab
 
 Database is awesome in <span class="country">everywhere</span>!
 
-[<i class="fas fa-print"></i>](?print-pdf#)
+[🖨](?print-pdf)
