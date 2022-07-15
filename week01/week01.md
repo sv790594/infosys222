@@ -1,10 +1,10 @@
-# <i class="fas fa-database"></i> Week 01
+# 🗄 Week 01
 ### Introduction
-[<i class="fab fa-creative-commons"></i>](https://creativecommons.org/licenses/by/4.0/) [Johnny Chan](mailto:jh.chan@auckland.ac.nz)
+[©](https://creativecommons.org/licenses/by/4.0/) [Johnny Chan](mailto:jh.chan@auckland.ac.nz)
 
 
 
-## <i class="fas fa-list-alt"></i> Agenda
+## 📌 Agenda
 - Why study database?
 
 - What you would learn
@@ -229,7 +229,7 @@ WHERE ...
 
 
 
-## <i class="fas fa-list-alt"></i> Summary
+## 🗒 Summary
 - By now you should:
 
 	- know what this course is about
@@ -241,7 +241,7 @@ WHERE ...
 	- understand SELECT-FROM-WHERE of SQL
 
 
-## <i class="fas fa-book"></i> Reading
+## 📚 Reading
 - Essential
 	- [The Worlds of Database Systems (p1-9)](http://infolab.stanford.edu/~ullman/fcdb/ch1.pdf)
 
@@ -251,10 +251,10 @@ WHERE ...
 	- [Database from Wikipedia](https://en.wikipedia.org/wiki/Database)
 
 
-## <i class="fas fa-calendar-alt"></i> Schedule
+## 🗓 Schedule
 Week | Lecture
 --- | ---
-01 | Introduction <i class="fas fa-check fa-pull-right"></i>
+01 | Introduction ✅
 02 | Relational model
 03 | ER modelling
 04 | Data modelling
@@ -269,7 +269,7 @@ Week | Lecture
 
 
 
-# THE END
+# 🌏 THE END
 <canvas width=400 height=400 class="anything">
 <!--
 {
@@ -346,4 +346,4 @@ Week | Lecture
 
 Database is awesome in <span class="country">everywhere</span>!
 
-[<i class="fas fa-print"></i>](?print-pdf#)
+[🖨](?print-pdf)
