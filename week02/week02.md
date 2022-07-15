@@ -1,6 +1,7 @@
 # 🗄 Week 02
 ### Relational model
-[<i class="fab fa-creative-commons"></i>](https://creativecommons.org/licenses/by/4.0/) [Johnny Chan](mailto:jh.chan@auckland.ac.nz)
+[©](https://creativecommons.org/licenses/by/4.0/) [Johnny Chan](mailto:jh.chan@auckland.ac.nz)
+
 
 
 
@@ -188,7 +189,7 @@ accNo | balance | type
 
 - 🤔 How is SQL different from a programming language like Java?
 
-- <i class="fas fa-book"></i> Further: [SQL from Wikipedia](http://en.wikipedia.org/wiki/SQL)
+- 📚 Further: [SQL from Wikipedia](http://en.wikipedia.org/wiki/SQL)
 
 
 ## Relation in SQL
@@ -253,7 +254,7 @@ CREATE TABLE Movie (
 	- CHECK
 	- DEFAULT
 
-- <i class="fa fa-book"></i> Further: [Constraints in SQLite](http://zetcode.com/db/sqlite/constraints/)
+- 📚 Further: [Constraints in SQLite](http://zetcode.com/db/sqlite/constraints/)
 
 
 ## INSERT, UPDATE and DELETE
