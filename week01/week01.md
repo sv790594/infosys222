@@ -254,7 +254,7 @@ WHERE ...
 ## 🗓 Schedule
 Week | Lecture
 --- | ---
-01 | Introduction ✅
+01 | Introduction ✓
 02 | Relational model
 03 | ER modelling
 04 | Data modelling

@@ -1,10 +1,10 @@
-# <i class="fas fa-database"></i> Week 06
+# 🗄 Week 06
 ### Normalisation
-[<i class="fab fa-creative-commons"></i>](https://creativecommons.org/licenses/by/4.0/) [Johnny Chan](mailto:jh.chan@auckland.ac.nz)
+[©](https://creativecommons.org/licenses/by/4.0/) [Johnny Chan](mailto:jh.chan@auckland.ac.nz)
 
 
 
-## <i class="fas fa-history"></i> Previously ...
+## 🕒 Previously ...
 - Database, DBMS and relational model
 
 - Basic SQL with SQLite
@@ -18,7 +18,7 @@
 
 
 
-## <i class="fas fa-list-alt"></i> Agenda
+## 📌 Agenda
 - Normalisation
 
 - Physical data modelling
@@ -239,7 +239,7 @@ To remove all transitive functional dependencies
 
 
 
-## <i class="fas fa-list-alt"></i> Summary
+## 🗒 Summary
 - By now you should:
 
 	- know the rationale behind normalisation
@@ -251,7 +251,7 @@ To remove all transitive functional dependencies
 	- understand physical data modelling and its consideration
 
 
-## <i class="fas fa-book"></i> Reading
+## 📚 Reading
 
 - Essential
 	- [Normalisation from SQL for Web Nerds](http://philip.greenspun.com/sql/normalization)
@@ -261,15 +261,15 @@ To remove all transitive functional dependencies
 	- A [tutorial](http://phlonx.com/resources/nf3/) on 1NF, 2NF and 3NF
 
 
-## <i class="fas fa-calendar-alt"></i> Schedule
+## 🗓 Schedule
 Week | Lecture
 --- | ---
-01 | Introduction <i class="fas fa-check fa-pull-right"></i>
-02 | Relational model <i class="fas fa-check fa-pull-right"></i>
-03 | ER modelling <i class="fas fa-check fa-pull-right"></i>
-04 | Data modelling <i class="fas fa-check fa-pull-right"></i>
-05 | Data modelling <i class="fas fa-check fa-pull-right"></i>
-06 | Normalisation <i class="fas fa-check fa-pull-right"></i>
+01 | Introduction ✓
+02 | Relational model ✓
+03 | ER modelling ✓
+04 | Data modelling ✓
+05 | Data modelling ✓
+06 | Normalisation ✓
 07 | SQL
 08 | SQL
 09 | SQL
@@ -279,7 +279,7 @@ Week | Lecture
 
 
 
-# THE END
+# 🌏 THE END
 <canvas width=400 height=400 class="anything">
 <!--
 {
@@ -356,4 +356,4 @@ Week | Lecture
 
 Database is awesome in <span class="country">everywhere</span>!
 
-[<i class="fas fa-print"></i>](?print-pdf#)
+[🖨](?print-pdf)
