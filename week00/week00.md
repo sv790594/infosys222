@@ -82,7 +82,7 @@ Week | Lecture | Lab
 
 - Office Hour: By appointment only (Wed 2-3)
 
-- Class Rep: [Alex Lou](clou785@aucklanduni.ac.nz)
+- Class Rep: [Alex Lou](mailto:clou785@aucklanduni.ac.nz)
 
 - Twitter: [@infosys222](https://twitter.com/infosys222)
 
