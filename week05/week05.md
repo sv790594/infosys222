@@ -30,7 +30,7 @@
 
 
 
-# 🗺 Case study
+# 💼 Case study
 ### Food delivery system <!-- .slide: data-background="pizza.jpg" data-background-transition="zoom" -->
 
 
@@ -99,7 +99,7 @@
 
 
 
-# 🗺 Case study
+# 💼 Case study
 ### Animal management system <!-- .slide: data-background="zoo.jpg" data-background-transition="zoom" -->
 
 

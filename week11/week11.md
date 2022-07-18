@@ -1,10 +1,10 @@
-# <i class="fas fa-database"></i> Week 11
+# 🗄 Week 11
 ### Data warehouse
-[<i class="fab fa-creative-commons"></i>](https://creativecommons.org/licenses/by/4.0/) [Johnny Chan](mailto:jh.chan@auckland.ac.nz)
+[©](https://creativecommons.org/licenses/by/4.0/) [Johnny Chan](mailto:jh.chan@auckland.ac.nz)
 
 
 
-## <i class="fas fa-history"></i> Previously on ...
+## 🕒 Previously on ...
 
 - Database efficiency
 
@@ -14,7 +14,7 @@
 
 
 
-## <i class="fas fa-list-alt"></i> Agenda
+## 📌 Agenda
 
 - Data warehouse
 
@@ -158,7 +158,7 @@ Total number of rows = 1000 * 5000 * 24 = 120000000
 
 
 
-# <i class="fas fa-briefcase"></i> Case study
+# 💼 Case study
 ### Book publisher data mart<!-- .slide: data-background="book.png" data-background-transition="zoom" -->
 
 
@@ -183,7 +183,7 @@ Total number of rows = 1000 * 5000 * 24 = 120000000
 
 
 
-## <i class="fas fa-list-alt"></i> Summary
+## 🗒 Summary
 - By now you have learnt:
 
 	- the purpose and nature of data warehouse, and how it is different from a database
@@ -191,26 +191,26 @@ Total number of rows = 1000 * 5000 * 24 = 120000000
 	- how to design a datawarehouse using star schema
 
 
-## <i class="fas fa-book"></i> Reading
+## 📚 Reading
 
 - Essential
 	- [An Overview of Data Warehousing and OLAP Technology](https://auckland.rl.talis.com/users/C899F913-6185-B4B9-3892-600310630A5F/bookmarks/8AC175FB-3E72-3C77-3F6F-EF094E047E8C.html)
 
 
-## <i class="fas fa-calendar-alt"></i> Schedule
+## 🗓 Schedule
 Week | Lecture
 --- | ---
-01 | Introduction <i class="fas fa-check fa-pull-right"></i>
-02 | Relational model <i class="fas fa-check fa-pull-right"></i>
-03 | ER modelling <i class="fas fa-check fa-pull-right"></i>
-04 | Data modelling <i class="fas fa-check fa-pull-right"></i>
-05 | Data modelling <i class="fas fa-check fa-pull-right"></i>
-06 | Normalisation <i class="fas fa-check fa-pull-right"></i>
-07 | SQL <i class="fas fa-check fa-pull-right"></i>
-08 | SQL <i class="fas fa-check fa-pull-right"></i>
-09 | SQL <i class="fas fa-check fa-pull-right"></i>
-10 | DBMS fundamentals <i class="fas fa-check fa-pull-right"></i>
-11 | Data warehouse <i class="fas fa-check fa-pull-right"></i>
+01 | Introduction ✓
+02 | Relational model ✓
+03 | ER modelling ✓
+04 | Data modelling ✓
+05 | Data modelling ✓
+06 | Normalisation ✓
+07 | SQL ✓
+08 | SQL ✓
+09 | SQL ✓
+10 | DBMS fundamentals ✓
+11 | Data warehouse ✓
 12 | Review
 
 
@@ -292,4 +292,4 @@ Week | Lecture
 
 Database is awesome in <span class="country">everywhere</span>!
 
-[<i class="fas fa-print"></i>](?print-pdf#)
+[🖨](?print-pdf)

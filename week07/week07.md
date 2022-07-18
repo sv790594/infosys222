@@ -1,10 +1,10 @@
-# <i class="fas fa-database"></i> Week 07
+# 🗄 Week 07
 ### SQL
-[<i class="fab fa-creative-commons"></i>](https://creativecommons.org/licenses/by/4.0/) [Johnny Chan](mailto:jh.chan@auckland.ac.nz)
+[©](https://creativecommons.org/licenses/by/4.0/) [Johnny Chan](mailto:jh.chan@auckland.ac.nz)
 
 
 
-## <i class="fas fa-history"></i> Previously ...
+## 🕒 Previously ...
 
 - Normalisation
 	- Eliminate and control data redundancy
@@ -15,7 +15,7 @@
 
 
 
-## <i class="fas fa-list-alt"></i> Agenda
+## 📌 Agenda
 - Revisit and continue on the basics of SQL
 	- CREATE, ALTER and DROP TABLE
 	- INSERT, SELECT, UPDATE and DELETE ([CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete))
@@ -71,7 +71,7 @@ CREATE TABLE Author
 ```
 <!-- .element: contenteditable="true" -->
 
-- <i class="fas fa-book"></i> Further: [ROWID](https://www.sqlite.org/lang_createtable.html#rowid)  and [AUTOINCREMENT](https://www.sqlite.org/autoinc.html) in SQLite
+- 📚 Further: [ROWID](https://www.sqlite.org/lang_createtable.html#rowid)  and [AUTOINCREMENT](https://www.sqlite.org/autoinc.html) in SQLite
 
 
 ## Naming convention
@@ -618,7 +618,7 @@ AND staffLastName = 'McDonald';
 | JULIANDAY(X,Y,...) | It returns the [Julian day](http://en.wikipedia.org/wiki/Julian_day) - the number of days since noon in Greenwich on November 24, 4714 B.C. |
 | STRFTIME(F,X,Y,...) | It returns the date formatted according to the format string F specified as the first argument. The DATE(), TIME() and DATETIME() functions are equivalent to STRFTIME() with certain formats |
 
-<i class="fas fa-book"></i> Further: [Date function in SQLite](https://www.sqlite.org/lang_datefunc.html)
+📚 Further: [Date function in SQLite](https://www.sqlite.org/lang_datefunc.html)
 
 
 ## Example
@@ -656,7 +656,7 @@ staffCode   weeks
 
 
 
-## <i class="fas fa-list-alt"></i> Summary
+## 🗒 Summary
 - By now you should:
 
 	- be familiar with the basics of SQL including
@@ -671,7 +671,7 @@ staffCode   weeks
 		- single-row function
 
 
-## <i class="fas fa-book"></i> Reading
+## 📚 Reading
 - Essential
 	- [Queries from SQL for Web Nerds](http://philip.greenspun.com/sql/queries.html)
 
@@ -687,16 +687,16 @@ staffCode   weeks
 	- [Date and time function in SQLite](http://www.sqlite.org/lang_datefunc.html)
 
 
-## <i class="fas fa-calendar-alt"></i> Schedule
+## 🗓 Schedule
 Week | Lecture
 --- | ---
-01 | Introduction <i class="fas fa-check fa-pull-right"></i>
-02 | Relational model <i class="fas fa-check fa-pull-right"></i>
-03 | ER modelling <i class="fas fa-check fa-pull-right"></i>
-04 | Data modelling <i class="fas fa-check fa-pull-right"></i>
-05 | Data modelling <i class="fas fa-check fa-pull-right"></i>
-06 | Normalisation <i class="fas fa-check fa-pull-right"></i>
-07 | SQL <i class="fas fa-check fa-pull-right"></i>
+01 | Introduction ✓
+02 | Relational model ✓
+03 | ER modelling ✓
+04 | Data modelling ✓
+05 | Data modelling ✓
+06 | Normalisation ✓
+07 | SQL ✓
 08 | SQL
 09 | SQL
 10 | DBMS fundamentals
@@ -782,4 +782,4 @@ Week | Lecture
 
 Database is awesome in <span class="country">everywhere</span>!
 
-[<i class="fas fa-print"></i>](?print-pdf#)
+[🖨](?print-pdf)

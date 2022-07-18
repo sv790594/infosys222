@@ -1,10 +1,10 @@
-# <i class="fas fa-database"></i> Week 08
+# 🗄 Week 08
 ### SQL
-[<i class="fab fa-creative-commons"></i>](https://creativecommons.org/licenses/by/4.0/) [Johnny Chan](mailto:jh.chan@auckland.ac.nz)
+[©](https://creativecommons.org/licenses/by/4.0/) [Johnny Chan](mailto:jh.chan@auckland.ac.nz)
 
 
 
-## <i class="fas fa-history"></i> Previously ...
+## 🕒 Previously ...
 
 - Basics of SQL
 	- CREATE, ALTER and DROP TABLE
@@ -17,7 +17,7 @@
 
 
 
-## <i class="fas fa-list-alt"></i> Agenda
+## 📌 Agenda
 
 - Multi-row function (aggregate function)
 
@@ -446,7 +446,7 @@ WHERE bookCode = (SELECT bookCode FROM Book
 
 
 
-## <i class="fas fa-list-alt"></i> Summary
+## 🗒 Summary
 - By now you have learnt:
 
 	- how to use multi-row function
@@ -456,7 +456,7 @@ WHERE bookCode = (SELECT bookCode FROM Book
 	- how to use subquery
 
 
-## <i class="fas fa-book"></i> Reading
+## 📚 Reading
 - Essential
 	- [Chapter 3: SQL for SQLite](https://auckland.rl.talis.com/users/C899F913-6185-B4B9-3892-600310630A5F/bookmarks/0A98B2D0-BCA9-F7B4-4A35-FFC7B4A73815.html)
 
@@ -465,17 +465,17 @@ WHERE bookCode = (SELECT bookCode FROM Book
 	- [Aggregate function in SQLite](http://www.sqlite.org/lang_aggfunc.html)
 
 
-## <i class="fas fa-calendar-alt"></i> Schedule
+## 🗓 Schedule
 Week | Lecture
 --- | ---
-01 | Introduction <i class="fas fa-check fa-pull-right"></i>
-02 | Relational model <i class="fas fa-check fa-pull-right"></i>
-03 | ER modelling <i class="fas fa-check fa-pull-right"></i>
-04 | Data modelling <i class="fas fa-check fa-pull-right"></i>
-05 | Data modelling <i class="fas fa-check fa-pull-right"></i>
-06 | Normalisation <i class="fas fa-check fa-pull-right"></i>
-07 | SQL <i class="fas fa-check fa-pull-right"></i>
-08 | SQL <i class="fas fa-check fa-pull-right"></i>
+01 | Introduction ✓
+02 | Relational model ✓
+03 | ER modelling ✓
+04 | Data modelling ✓
+05 | Data modelling ✓
+06 | Normalisation ✓
+07 | SQL ✓
+08 | SQL ✓
 09 | SQL
 10 | DBMS fundamentals
 11 | Data warehouse
@@ -560,4 +560,5 @@ Week | Lecture
 
 Database is awesome in <span class="country">everywhere</span>!
 
-[<i class="fas fa-print"></i>](?print-pdf#)
+[🖨](?print-pdf)
+📌

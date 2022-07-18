@@ -1,10 +1,10 @@
-# <i class="fas fa-database"></i> Week 09
+# 🗄 Week 09
 ### SQL
-[<i class="fab fa-creative-commons"></i>](https://creativecommons.org/licenses/by/4.0/) [Johnny Chan](mailto:jh.chan@auckland.ac.nz)
+[©](https://creativecommons.org/licenses/by/4.0/) [Johnny Chan](mailto:jh.chan@auckland.ac.nz)
 
 
 
-## <i class="fas fa-history"></i> Previously ...
+## 🕒 Previously ...
 
 - Function
 
@@ -14,7 +14,7 @@
 
 
 
-## <i class="fas fa-list-alt"></i> Agenda
+## 📌 Agenda
 - Constraint (Revisit)
 
 - Expression
@@ -146,7 +146,7 @@ sqlite> PRAGMA foreign_keys = ON;
 ```
 
 <br />
-- <i class="fas fa-book"></i> Further: [Foreign key support in SQLite](https://www.sqlite.org/foreignkeys.html)
+- 📚 Further: [Foreign key support in SQLite](https://www.sqlite.org/foreignkeys.html)
 
 
 ## Quiz 01
@@ -319,7 +319,7 @@ DROP TRIGGER InsertBookLog;
 
 
 
-## <i class="fas fa-list-alt"></i> Summary
+## 🗒 Summary
 - By now you have learnt:
 
 	- how to define constraint
@@ -331,7 +331,7 @@ DROP TRIGGER InsertBookLog;
 	- how to CREATE VIEW and TRIGGER
 
 
-## <i class="fas fa-book"></i> Reading
+## 📚 Reading
 - Essential
 	- [Chapter 4: Advanced SQL for SQLite](https://auckland.rl.talis.com/users/C899F913-6185-B4B9-3892-600310630A5F/bookmarks/0A98B2D0-BCA9-F7B4-4A35-FFC7B4A73815.html)
 
@@ -341,18 +341,18 @@ DROP TRIGGER InsertBookLog;
 	- [Trigger in SQLite](https://www.sqlite.org/lang_createtrigger.html)
 
 
-## <i class="fas fa-calendar-alt"></i> Schedule
+## 🗓 Schedule
 Week | Lecture
 --- | ---
-01 | Introduction <i class="fas fa-check fa-pull-right"></i>
-02 | Relational model <i class="fas fa-check fa-pull-right"></i>
-03 | ER modelling <i class="fas fa-check fa-pull-right"></i>
-04 | Data modelling <i class="fas fa-check fa-pull-right"></i>
-05 | Data modelling <i class="fas fa-check fa-pull-right"></i>
-06 | Normalisation <i class="fas fa-check fa-pull-right"></i>
-07 | SQL <i class="fas fa-check fa-pull-right"></i>
-08 | SQL <i class="fas fa-check fa-pull-right"></i>
-09 | SQL <i class="fas fa-check fa-pull-right"></i>
+01 | Introduction ✓
+02 | Relational model ✓
+03 | ER modelling ✓
+04 | Data modelling ✓
+05 | Data modelling ✓
+06 | Normalisation ✓
+07 | SQL ✓
+08 | SQL ✓
+09 | SQL ✓
 10 | DBMS fundamentals
 11 | Data warehouse
 12 | Review
@@ -436,4 +436,5 @@ Week | Lecture
 
 Database is awesome in <span class="country">everywhere</span>!
 
-[<i class="fas fa-print"></i>](?print-pdf#)
+[🖨](?print-pdf)
+📌

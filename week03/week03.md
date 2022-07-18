@@ -1,4 +1,4 @@
-# 🗄 Week 03
+💼# 🗄 Week 03
 ### Entity-relationship modelling
 [©](https://creativecommons.org/licenses/by/4.0/) [Johnny Chan](mailto:jh.chan@auckland.ac.nz)
 
@@ -121,7 +121,7 @@
 
 
 
-# 🗺 Case study
+# 💼 Case study
 ### An art museum <!-- .slide: data-background="art.jpg" data-background-transition="zoom" -->
 
 

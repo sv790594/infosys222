@@ -215,7 +215,7 @@ key | key | key
 
 
 
-# 🗺 Case study
+# 💼 Case study
 ### Safari booking system <!-- .slide: data-background="safari.jpg" data-background-transition="zoom" -->
 
 

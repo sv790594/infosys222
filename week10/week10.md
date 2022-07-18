@@ -1,10 +1,10 @@
-# <i class="fas fa-database"></i> Week 10
+# 🗄 Week 10
 ### DBMS fundamentals
-[<i class="fab fa-creative-commons"></i>](https://creativecommons.org/licenses/by/4.0/) [Johnny Chan](mailto:jh.chan@auckland.ac.nz)
+[©](https://creativecommons.org/licenses/by/4.0/) [Johnny Chan](mailto:jh.chan@auckland.ac.nz)
 
 
 
-## <i class="fas fa-history"></i> Previously ...
+## 🕒 Previously ...
 
 - Constraint
 
@@ -16,7 +16,7 @@
 
 
 
-## <i class="fas fa-list-alt"></i> Agenda
+## 📌 Agenda
 - Database efficiency
 
 - Transaction management
@@ -155,7 +155,7 @@ CREATE INDEX myIndex ON Book (bookTitle, bookType);
 
 - Indexing is a science of its own
 
-- <i class="fas fa-book"></i> Further: [Partial index in SQLite](https://www.sqlite.org/partialindex.html)
+- 📚 Further: [Partial index in SQLite](https://www.sqlite.org/partialindex.html)
 
 
 ## Normalisation and efficiency
@@ -446,7 +446,7 @@ Time   Trans.   Request                        Stored Value
 
 
 
-## <i class="fas fa-list-alt"></i> Summary
+## 🗒 Summary
 - By now you have learnt:
 
 	- how database efficiency could be improved and refined
@@ -456,7 +456,7 @@ Time   Trans.   Request                        Stored Value
 	- how a database handles concurrency control
 
 
-## <i class="fas fa-book"></i> Reading
+## 📚 Reading
 
 - Further
 	- [Indexing and Tuning of SQL for Web Nerds ](http://philip.greenspun.com/sql/tuning.html)
@@ -468,19 +468,19 @@ Time   Trans.   Request                        Stored Value
 	- [Atomic commit in SQLite](https://www.sqlite.org/atomiccommit.html)
 
 
-## <i class="fas fa-calendar-alt"></i> Schedule
+## 🗓 Schedule
 Week | Lecture
 --- | ---
-01 | Introduction <i class="fas fa-check fa-pull-right"></i>
-02 | Relational model <i class="fas fa-check fa-pull-right"></i>
-03 | ER modelling <i class="fas fa-check fa-pull-right"></i>
-04 | Data modelling <i class="fas fa-check fa-pull-right"></i>
-05 | Data modelling <i class="fas fa-check fa-pull-right"></i>
-06 | Normalisation <i class="fas fa-check fa-pull-right"></i>
-07 | SQL <i class="fas fa-check fa-pull-right"></i>
-08 | SQL <i class="fas fa-check fa-pull-right"></i>
-09 | SQL <i class="fas fa-check fa-pull-right"></i>
-10 | DBMS fundamentals <i class="fas fa-check fa-pull-right"></i>
+01 | Introduction ✓
+02 | Relational model ✓
+03 | ER modelling ✓
+04 | Data modelling ✓
+05 | Data modelling ✓
+06 | Normalisation ✓
+07 | SQL ✓
+08 | SQL ✓
+09 | SQL ✓
+10 | DBMS fundamentals ✓
 11 | Data warehouse
 12 | Review
 
@@ -563,4 +563,4 @@ Week | Lecture
 
 Database is awesome in <span class="country">everywhere</span>!
 
-[<i class="fas fa-print"></i>](?print-pdf#)
+[🖨](?print-pdf)

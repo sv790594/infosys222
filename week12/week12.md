@@ -1,10 +1,10 @@
-# <i class="fas fa-database"></i> Week 12
+# 🗄 Week 12
 ### Review
-[<i class="fab fa-creative-commons"></i>](https://creativecommons.org/licenses/by/4.0/) [Johnny Chan](mailto:jh.chan@auckland.ac.nz)
+[©](https://creativecommons.org/licenses/by/4.0/) [Johnny Chan](mailto:jh.chan@auckland.ac.nz)
 
 
 
-## <i class="fas fa-history"></i> Previously ...
+## 🕒 Previously ...
 
 - Data warehouse
 
@@ -12,7 +12,7 @@
 
 
 
-## <i class="fas fa-list-alt"></i> Agenda
+## 📌 Agenda
 
 - Case studies
 
@@ -20,7 +20,7 @@
 
 
 
-# <i class="fas fa-briefcase"></i> Case study
+# 💼 Case study
 ### Fisheries corporation<!-- .slide: data-background="fishery.jpg" data-background-transition="zoom" -->
 
 
@@ -82,7 +82,7 @@ comments_made_at_AGM)
 
 
 
-# <i class="fas fa-briefcase"></i> Case study
+# 💼 Case study
 ### Book database<!-- .slide: data-background="book.jpg" data-background-transition="zoom" -->
 
 
@@ -112,7 +112,7 @@ comments_made_at_AGM)
 
 
 
-# <i class="fas fa-briefcase"></i> Case study
+# 💼 Case study
 ### Jump-a-lot gym database<!-- .slide: data-background="gym.jpg" data-background-transition="zoom" -->
 
 
@@ -182,7 +182,7 @@ comments_made_at_AGM)
 
 
 
-# <i class="fas fa-briefcase"></i> Case study
+# 💼 Case study
 ### Auckland linen supplies<!-- .slide: data-background="linen.jpg" data-background-transition="zoom" -->
 
 
@@ -196,7 +196,7 @@ comments_made_at_AGM)
 
 
 
-# <i class="fas fa-briefcase"></i> Case study
+# 💼 Case study
 ### Magazine subscription system<!-- .slide: data-background="magazine.jpg" data-background-transition="zoom" -->
 
 
@@ -228,18 +228,18 @@ comments_made_at_AGM)
 ## Course review
 Week | Content
 --- | ---
-01 | Introduction <i class="fas fa-check fa-pull-right"></i>
-02 | Relational model <i class="fas fa-check fa-pull-right"></i>
-03 | ER modelling <i class="fas fa-check fa-pull-right"></i>
-04 | Data modelling <i class="fas fa-check fa-pull-right"></i>
-05 | Data modelling<i class="fas fa-check fa-pull-right"></i>
-06 | Normalisation <i class="fas fa-check fa-pull-right"></i>
-07 | SQL <i class="fas fa-check fa-pull-right"></i>
-08 | SQL <i class="fas fa-check fa-pull-right"></i>
-09 | SQL <i class="fas fa-check fa-pull-right"></i>
-10 | DBMS fundamentals <i class="fas fa-check fa-pull-right"></i>
-11 | Data warehouse <i class="fas fa-check fa-pull-right"></i>
-12 | Review <i class="fas fa-check fa-pull-right"></i>
+01 | Introduction ✓
+02 | Relational model ✓
+03 | ER modelling ✓
+04 | Data modelling ✓
+05 | Data modelling✓
+06 | Normalisation ✓
+07 | SQL ✓
+08 | SQL ✓
+09 | SQL ✓
+10 | DBMS fundamentals ✓
+11 | Data warehouse ✓
+12 | Review ✓
 
 
 ## Beyond RDBMS
@@ -335,4 +335,4 @@ Week | Content
 
 Database is awesome in <span class="country">everywhere</span>!
 
-[<i class="fas fa-print"></i>](?print-pdf#)
+[🖨](?print-pdf)
