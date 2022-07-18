@@ -1,10 +1,10 @@
-# <i class="fas fa-database"></i> Week 04
+# 🗄 Week 04
 ### Data modelling
-[<i class="fab fa-creative-commons"></i>](https://creativecommons.org/licenses/by/4.0/) [Johnny Chan](mailto:jh.chan@auckland.ac.nz)
+[©](https://creativecommons.org/licenses/by/4.0/) [Johnny Chan](mailto:jh.chan@auckland.ac.nz)
 
 
 
-## <i class="fas fa-history"></i> Previously ...
+## 🕒 Previously ...
 - ER model
 	- entity, entity set, relationship, attribute and key
 	- degree and cardinality of relationship
@@ -19,7 +19,7 @@
 
 
 
-## <i class="fas fa-list-alt"></i> Agenda
+## 📌 Agenda
 - Revisit some concepts
 
 - Design principles for data modelling
@@ -215,7 +215,7 @@ key | key | key
 
 
 
-# <i class="fas fa-briefcase"></i> Case study
+# 🗺 Case study
 ### Safari booking system <!-- .slide: data-background="safari.jpg" data-background-transition="zoom" -->
 
 
@@ -262,7 +262,7 @@ key | key | key
 
 
 
-## <i class="fas fa-list-alt"></i> Summary
+## 🗒 Summary
 - By now you should:
 
 	- have deeper understanding of foreign key and referential integrity, strong/weak entity set, and relationship with different degree and cardinality
@@ -276,20 +276,20 @@ key | key | key
 	- understand the concept of anybody
 
 
-## <i class="fas fa-book"></i> Reading
+## 📚 Reading
 
 - Further
 
 	- [Elmasri et al., (1985): The Category Concept: An Extension to the Entity-Relationship Model](https://auckland.rl.talis.com/users/C899F913-6185-B4B9-3892-600310630A5F/bookmarks/3F9DB0D9-C1FC-7B56-37A9-818B634DAFA4.html)
 
 
-## <i class="fas fa-calendar-alt"></i> Schedule
+## 🗓 Schedule
 Week | Lecture
 --- | ---
-01 | Introduction <i class="fas fa-check fa-pull-right"></i>
-02 | Relational model <i class="fas fa-check fa-pull-right"></i>
-03 | ER modelling <i class="fas fa-check fa-pull-right"></i>
-04 | Data modelling <i class="fas fa-check fa-pull-right"></i>
+01 | Introduction ✓
+02 | Relational model ✓
+03 | ER modelling ✓
+04 | Data modelling ✓
 05 | Data modelling
 06 | Normalisation
 07 | SQL
@@ -301,7 +301,7 @@ Week | Lecture
 
 
 
-# THE END
+# 🌏 THE END
 <canvas width=400 height=400 class="anything">
 <!--
 {
@@ -378,4 +378,4 @@ Week | Lecture
 
 Database is awesome in <span class="country">everywhere</span>!
 
-[<i class="fas fa-print"></i>](?print-pdf#)
+[🖨](?print-pdf)

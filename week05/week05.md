@@ -1,10 +1,10 @@
-# <i class="fas fa-database"></i> Week 05
+# 🗄 Week 05
 ### Data modelling
-[<i class="fab fa-creative-commons"></i>](https://creativecommons.org/licenses/by/4.0/) [Johnny Chan](mailto:jh.chan@auckland.ac.nz)
+[©](https://creativecommons.org/licenses/by/4.0/) [Johnny Chan](mailto:jh.chan@auckland.ac.nz)
 
 
 
-## <i class="fas fa-history"></i> Previously ...
+## 🕒 Previously ...
 - Revisit some concepts
 
 - Design principles for data modelling
@@ -25,12 +25,12 @@
 
 
 
-## <i class="fas fa-list-alt"></i> Agenda
+## 📌 Agenda
 - Case studies
 
 
 
-# <i class="fas fa-briefcase"></i> Case study
+# 🗺 Case study
 ### Food delivery system <!-- .slide: data-background="pizza.jpg" data-background-transition="zoom" -->
 
 
@@ -72,7 +72,7 @@
 - A review can be made directly to a particular product, or it could be associated with the company in general. Each review has a unique number, a date, a description, and a star number which ranges from one to five. The company could choose to show or not to show a review from the system
 
 
-## <i class="fas fa-comments"></i> Discussion
+## 💬 Discussion
 - In your logical ER model, specify which part must accompany with assumption in order to clearly articulate the rationale behind the design decision
 
 - Suggest any alternative way of modelling any part of the case
@@ -99,7 +99,7 @@
 
 
 
-# <i class="fas fa-briefcase"></i> Case study
+# 🗺 Case study
 ### Animal management system <!-- .slide: data-background="zoo.jpg" data-background-transition="zoom" -->
 
 
@@ -160,7 +160,7 @@
 
 
 
-## <i class="fas fa-list-alt"></i> Summary
+## 🗒 Summary
 - By now you should:
 
 	- have practiced logical ER modelling through a number of case studies and understood the process well
@@ -172,19 +172,19 @@
 	- be confident in data modelling
 
 
-## <i class="fas fa-book"></i> Reading
+## 📚 Reading
 
 - No reading, just practice and practice!
 
 
-## <i class="fas fa-calendar-alt"></i> Schedule
+## 🗓 Schedule
 Week | Lecture
 --- | ---
-01 | Introduction <i class="fas fa-check fa-pull-right"></i>
-02 | Relational model <i class="fas fa-check fa-pull-right"></i>
-03 | ER modelling <i class="fas fa-check fa-pull-right"></i>
-04 | Data modelling <i class="fas fa-check fa-pull-right"></i>
-05 | Data modelling <i class="fas fa-check fa-pull-right"></i>
+01 | Introduction ✓
+02 | Relational model ✓
+03 | ER modelling ✓
+04 | Data modelling ✓
+05 | Data modelling ✓
 06 | Normalisation
 07 | SQL
 08 | SQL
@@ -195,7 +195,7 @@ Week | Lecture
 
 
 
-# THE END
+# 🌏 THE END
 <canvas width=400 height=400 class="anything">
 <!--
 {
@@ -272,4 +272,4 @@ Week | Lecture
 
 Database is awesome in <span class="country">everywhere</span>!
 
-[<i class="fas fa-print"></i>](?print-pdf#)
+[🖨](?print-pdf)

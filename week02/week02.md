@@ -5,7 +5,7 @@
 
 
 
-## 💬 Previously ...
+## 🕒 Previously ...
 - Database and DBMS
 
 - The intuitive concept of a relation as a two-dimensional table
@@ -332,8 +332,8 @@ WHERE title = 'Interstellar';
 ## 🗓 Schedule
 Week | Lecture
 --- | ---
-01 | Introduction ✅
-02 | Relational model ✅
+01 | Introduction ✓
+02 | Relational model ✓
 03 | ER modelling
 04 | Data modelling
 05 | Data modelling

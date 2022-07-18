@@ -1,10 +1,10 @@
-# <i class="fas fa-database"></i> Week 03
+# 🗄 Week 03
 ### Entity-relationship modelling
-[<i class="fab fa-creative-commons"></i>](https://creativecommons.org/licenses/by/4.0/) [Johnny Chan](mailto:jh.chan@auckland.ac.nz)
+[©](https://creativecommons.org/licenses/by/4.0/) [Johnny Chan](mailto:jh.chan@auckland.ac.nz)
 
 
 
-## <i class="fas fa-history"></i> Previously ...
+## 🕒 Previously ...
 - Relational data model
 	- relation, tuple, attribute, domain, schema, key, constraint
 
@@ -17,7 +17,7 @@
 
 
 
-## <i class="fas fa-list-alt"></i> Agenda
+## 📌 Agenda
 - Data modelling
 
 	- Entity-relationship (ER) modelling
@@ -47,7 +47,7 @@
 
 - An ERD is used as a tool for ER modelling, which also provides a representation of the ER model
 
-- <i class="fas fa-book"></i> Further: [ER model from Wikipedia](http://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model)
+- 📚 Further: [ER model from Wikipedia](http://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model)
 
 
 ## Entity
@@ -121,7 +121,7 @@
 
 
 
-# <i class="fas fa-briefcase"></i> Case study
+# 🗺 Case study
 ### An art museum <!-- .slide: data-background="art.jpg" data-background-transition="zoom" -->
 
 
@@ -239,7 +239,7 @@
 
 
 
-## <i class="fas fa-list-alt"></i> Summary
+## 🗒 Summary
 - By now you should:
 
 	- know the vocabulary of the ER model: entity, entity set, relationship, degree, cardinality, attribute, key etc
@@ -253,7 +253,7 @@
 	- understand the difference between strong and weak entity sets
 
 
-## <i class="fas fa-book"></i> Reading
+## 📚 Reading
 - Further
 	- The ER model  
 		[Chen (1976): The Entity-Relationship Model - Toward a Unified View of Data](https://auckland.rl.talis.com/users/C899F913-6185-B4B9-3892-600310630A5F/bookmarks/946589C7-0C4F-4BD2-C58B-BB29DE416C29.html)
@@ -262,12 +262,12 @@
 	 	[Steve (2002): The Details of Conceptual Modelling Notations are Important - A Comparison of Relationship Normative Language (p174-p176)](https://auckland.rl.talis.com/users/C899F913-6185-B4B9-3892-600310630A5F/bookmarks/EE015C6E-3615-408C-E481-01AF3E5E9BD5.html)
 
 
-## <i class="fas fa-calendar-alt"></i> Schedule
+## 🗓 Schedule
 Week | Lecture
 --- | ---
-01 | Introduction <i class="fas fa-check fa-pull-right"></i>
-02 | Relational model <i class="fas fa-check fa-pull-right"></i>
-03 | ER modelling <i class="fas fa-check fa-pull-right"></i>
+01 | Introduction ✓
+02 | Relational model ✓
+03 | ER modelling ✓
 04 | Data modelling
 05 | Data modelling
 06 | Normalisation
@@ -280,7 +280,7 @@ Week | Lecture
 
 
 
-# THE END
+# 🌏 THE END
 <canvas width=400 height=400 class="anything">
 <!--
 {
@@ -357,4 +357,4 @@ Week | Lecture
 
 Database is awesome in <span class="country">everywhere</span>!
 
-[<i class="fas fa-print"></i>](?print-pdf#)
+[🖨](?print-pdf)
