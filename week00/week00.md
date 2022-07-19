@@ -82,7 +82,7 @@ Week | Lecture | Lab
 
 - Office Hour: By appointment only (Wed 2-3) @ 260-474 or online
 
-- Class Rep: [Alex Lou](mailto:clou785@aucklanduni.ac.nz), TBC
+- Class Rep: [Alex Lou](mailto:clou785@aucklanduni.ac.nz) and [Astrid Liu](mailto:jliu276@aucklanduni.ac.nz)
 
 - Twitter: [@infosys222](https://twitter.com/infosys222)
 
