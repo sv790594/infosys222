@@ -199,12 +199,12 @@ accNo | balance | type
 - The simplest way of declaring a schema of a relation in SQL begins with the keywords __CREATE TABLE__, followed by the relation name, and a list of attribute names with data types:
 
 	```sql
-CREATE TABLE Movie (
-	title TEXT,
-	year INTEGER,
-	length INTEGER,
-	filmType TEXT
-);
+	CREATE TABLE Movie (
+		title TEXT,
+		year INTEGER,
+		length INTEGER,
+		filmType TEXT
+	);
 	```
 
 - 📢 All sample SQL codes are based on [SQLite](http://sqlite.org/lang.html) syntax
@@ -213,18 +213,18 @@ CREATE TABLE Movie (
 ## Modifying relation schema
 - To remove the entire relation R with all its tuples from the database:
 	```sql
-DROP TABLE R;
+	DROP TABLE R;
 	```
 
 - To rename the relation R to S:
 	```sql
-ALTER TABLE R RENAME TO S;
+	ALTER TABLE R RENAME TO S;
 	```
 
 - To add an attribute to the relation R:
 	```sql
-ALTER TABLE R ADD COLUMN newColumn1 TEXT;
-ALTER TABLE R ADD COLUMN newColumn2 TEXT DEFAULT 'Yes';
+	ALTER TABLE R ADD COLUMN newColumn1 TEXT;
+	ALTER TABLE R ADD COLUMN newColumn2 TEXT DEFAULT 'Yes';
 	```
 
 - 🤔 What is the default value of an attribute when it is not explicitly specified?
@@ -235,13 +235,13 @@ ALTER TABLE R ADD COLUMN newColumn2 TEXT DEFAULT 'Yes';
 ## Declaring key constraint
 - In SQL, key(s) is/are declared when a relation is defined from the schema:
 	```sql
-CREATE TABLE Movie (
-	title TEXT,
-	year INTEGER,
-	length INTEGER,
-	filmType TEXT,
-	PRIMARY KEY (title, year)
-);
+	CREATE TABLE Movie (
+		title TEXT,
+		year INTEGER,
+		length INTEGER,
+		filmType TEXT,
+		PRIMARY KEY (title, year)
+	);
 	```
 
 
@@ -260,21 +260,21 @@ CREATE TABLE Movie (
 ## INSERT, UPDATE and DELETE
 - To insert a new tuple into the relation Movie:
 	```sql
-INSERT INTO Movie VALUES
-('Interstellar', 2013, 168, 'colour');
+	INSERT INTO Movie VALUES
+	('Interstellar', 2013, 168, 'colour');
 	```
 
 - To update the value of an attribute in an existing tuple:
 	```sql
-UPDATE Movie
-SET year = 2014, length = 169
-WHERE title = 'Interstellar';
+	UPDATE Movie
+	SET year = 2014, length = 169
+	WHERE title = 'Interstellar';
 	```
 
 - To delete a tuple:
 	```sql
-DELETE FROM Movie
-WHERE title = 'Interstellar';
+	DELETE FROM Movie
+	WHERE title = 'Interstellar';
 	```
 
 - 🤔 Are these DDL or DML?
