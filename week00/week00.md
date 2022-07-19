@@ -80,7 +80,7 @@ Week | Lecture | Lab
 
 - Email: Use it for _private message_ only. Direct all administrative matter, marking issue and lab material to the coordinator; lecture material and assessment question to the lecturer
 
-- Office Hour: By appointment only (Wed 2-3)
+- Office Hour: By appointment only (Wed 2-3) @ 260-474 or online
 
 - Class Rep: [Alex Lou](mailto:clou785@aucklanduni.ac.nz), TBC
 
