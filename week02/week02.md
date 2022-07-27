@@ -9,7 +9,7 @@
 
 - The intuitive concept of a relation as a two-dimensional table
 
-- Basic SQL command
+- Basic SQL statement
 	- SELECT-FROM-WHERE
 
 
@@ -287,7 +287,7 @@ accNo | balance | type
 	- Laptop (model, speed, ram, hd, screen, price)
 	- Printer (model, colour, type, price)
 
-- Write the SQL command to declare:
+- Write the SQL statement to declare:
 	1. the schemas for the relations Product, PC, Laptop and Printer
 	2. an alteration to the schema of the relation Laptop to add the attribute od (optical-disk type). Let the default value be 'none' if the laptop does not have an optical disk drive
 
@@ -300,7 +300,7 @@ accNo | balance | type
 3. Create a relation called Food with the following attributes: name, quantity, expiredDate, refrigerated. Choose appropriate data types for the attributes
 4. Now, look up your food cabinet and the fridge, and pick 5 different food items
 5. Create 5 tuples in the relation Food to represent the picked items
-6. Use the SELECT command learnt from Week 01 to check if all items are stored properly
+6. Use the SELECT statement learnt from Week 01 to check if all items are stored properly
 7. (Optional) Take a screenshot of the result of (6) and share it
 
 

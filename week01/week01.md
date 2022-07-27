@@ -116,7 +116,7 @@ accNo | balance | type
 22222 | 7654.32 | check
 99999 | -8888.00 | loan
 
-- Consider the relation __Account__, the command to get the balance from accNo 22222:
+- Consider the relation __Account__, the SQL code to get the balance from accNo 22222:
 
 ```sql
 SELECT balance
@@ -155,7 +155,7 @@ accNo | name | address
 22222 | Peggy Carter | 999 Marvel Avenue
 99999 | John Reese | 314 Machine Place
 
-- Suppose we have a related relation __Holder__, the command to get the names of holders with check accounts:
+- Suppose we have a related relation __Holder__, the SQL code to get the names of holders with check accounts:
 
 ```sql
 SELECT name
@@ -184,7 +184,7 @@ AND <conditions>;
 ## SQL: Quiz
 - Consider the relation [__Account__](#/6) again
 
-	Write a SQL command that lists all accounts (with accNo and type) that have a positive balance
+	Write a SQL statement that lists all accounts (with accNo and type) that have a positive balance
 
 ```sql
 SELECT ...
@@ -196,12 +196,12 @@ WHERE ...
 
 
 ## SQL: Syntax and semantics
-- As demonstrated, SQL command resembles asking question in English. Quite often, the effect of a command can be intuitively understood
+- As demonstrated, SQL statement resembles asking question in English. Quite often, the effect of an SQL statement can be intuitively understood
 
-- During the course you will learn how to compose much more complex command in SQL. To do that you need a precise understanding of SQL’s:
+- During the course you will learn how to compose much more complex statement in SQL. To do that you need a precise understanding of SQL’s:
 
-	- Syntax: The way SQL command could be written
-	- Semantics: The meaning of a SQL command  
+	- Syntax: The way SQL statement could be written
+	- Semantics: The meaning of a SQL statement  
 
 
 ## SQL: More aspects

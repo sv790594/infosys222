@@ -51,14 +51,13 @@
 - 🤔 What is the major difference between SQLite and other RDBMS product?
 
 
-# <i class="fas fa-play-circle"></i> Demo
+# ▶️ Demo
 ### The [book](book.sql) database
 
 
 
 ## CREATE TABLE
-[![create_table](http://sqlite.org/images/syntax/create-table-stmt.gif)
-<!-- .element: height="250px" -->](https://www.sqlite.org/lang_createtable.html)
+[![create_table](http://sqlite.org/images/syntax/create-table-stmt.gif)<!-- .element: height="250px" -->](https://www.sqlite.org/lang_createtable.html)
 
 ```
 CREATE TABLE Author
@@ -85,13 +84,13 @@ CREATE TABLE Author
 ## CREATE TABLE AS SELECT
 - The following statement creates and populates a table based on the result of a SELECT statement: the table has no defined PRIMARY KEY, no defined constraint, and the default value of each column is NULL
 
-- Use this command only for temporary or testing purpose
+- Use this statement only for temporary or testing purpose
 
-	```
+```
 CREATE TABLE AuthorTemp AS
 SELECT * FROM Author
 WHERE authorSuburb = 'Meadowbank';
-	```
+```
 
 
 ## ALTER TABLE
@@ -100,12 +99,12 @@ WHERE authorSuburb = 'Meadowbank';
 
 - SQLite only supports two forms of alteration to an existing table in the database: to rename the table or to add a new column to the table
 
-	```
+```
 ALTER TABLE Author ADD authorCity TEXT;
 ALTER TABLE AuthorTemp RENAME TO MeadowbankAuthor;
-	```
+```
 
-- 🤔 Why is it not a good idea to support removable of a column too?
+🤔 Why is it not a good idea to support removable of a column too?
 
 
 ## DROP TABLE
@@ -114,11 +113,11 @@ ALTER TABLE AuthorTemp RENAME TO MeadowbankAuthor;
 
 - All the data, structure, constraint and index associated with the table are deleted completely and permanently
 
-	```
+```
 DROP TABLE MeadowbankAuthor;
-	```
+```
 
-- 🤔 What would happen if foreign key constraint is involved in a table drop?
+🤔 What would happen if foreign key constraint is involved in a table drop?
 
 
 
