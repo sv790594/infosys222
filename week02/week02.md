@@ -4,7 +4,6 @@
 
 
 
-
 ## 🕒 Previously ...
 - Database and DBMS
 
