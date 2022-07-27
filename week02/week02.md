@@ -186,9 +186,9 @@ accNo | balance | type
 	- [Data definition language (DDL)](https://en.wikipedia.org/wiki/Data_definition_language)
 	- [Data manipulation language (DML)](https://en.wikipedia.org/wiki/Data_manipulation_language)
 
- 🤔 How is SQL different from a programming language like Java?
+- 🤔 How is SQL different from a programming language like Java?
 
- 📚 Further: [SQL from Wikipedia](http://en.wikipedia.org/wiki/SQL)
+- 📚 Further: [SQL from Wikipedia](http://en.wikipedia.org/wiki/SQL)
 
 
 ## Relation in SQL

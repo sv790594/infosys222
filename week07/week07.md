@@ -48,7 +48,7 @@
 
 - All SQL related content and assessment in this course are expected to be run with SQLite
 
-🤔 What is the major difference between SQLite and other RDBMS product?
+- 🤔 What is the major difference between SQLite and other RDBMS product?
 
 
 # ▶️ Demo
@@ -103,7 +103,7 @@ ALTER TABLE Author ADD authorCity TEXT;
 ALTER TABLE AuthorTemp RENAME TO MeadowbankAuthor;
 ```
 
-🤔 Why is it not a good idea to support removable of a column too?
+- 🤔 Why is it not a good idea to support removable of a column too?
 
 
 ## DROP TABLE
@@ -115,7 +115,7 @@ ALTER TABLE AuthorTemp RENAME TO MeadowbankAuthor;
 DROP TABLE MeadowbankAuthor;
 ```
 
-🤔 What would happen if foreign key constraint is involved in a table drop?
+- 🤔 What would happen if foreign key constraint is involved in a table drop?
 
 
 
@@ -140,9 +140,9 @@ INSERT INTO Author (authorFirstName, authorLastName, authorStreet, authorSuburb,
 INSERT INTO Author (authorFirstName, authorLastName, authorStreet, authorSuburb, authorCity) VALUES ('Koorey','Beatrice','12 Peach Parade','Remuera','Auckland');
 ```
 
-🤔 What is the difference between including and not including named columns in the INSERT statement?
+- 🤔 What is the difference between including and not including named columns in the INSERT statement?
 
-🤔 What does such difference imply?
+- 🤔 What does such difference imply?
 
 
 ## INSERT INTO SELECT
@@ -277,7 +277,7 @@ SET authorStreet = '22 Park View Street'
 WHERE authorFirstName = 'De Silva';
 ```
 
-- 📢 Always use a WHERE clause in an UPDATE statement!
+📢 Always use a WHERE clause in an UPDATE statement!
 
 
 
@@ -290,7 +290,7 @@ FROM AuthorTemp
 WHERE authorFirstName = 'De Silva';
 ```
 
-- 📢 Always use a WHERE clause in a DELETE statement!
+📢 Always use a WHERE clause in a DELETE statement!
 
 
 
@@ -346,7 +346,7 @@ St.Louis Gabriel
 Coorey Beatrice
 Koorey Beatrice
 ```
-🤔 How many string literals are being concatenated per row?
+- 🤔 How many string literals are being concatenated per row?
 
 
 ## Quiz 02
