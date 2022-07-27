@@ -48,7 +48,7 @@
 
 - All SQL related content and assessment in this course are expected to be run with SQLite
 
-- 🤔 What is the major difference between SQLite and other RDBMS product?
+🤔 What is the major difference between SQLite and other RDBMS product?
 
 
 # ▶️ Demo
@@ -94,8 +94,7 @@ WHERE authorSuburb = 'Meadowbank';
 
 
 ## ALTER TABLE
-[![alter_table](http://sqlite.org/images/syntax/alter-table-stmt.gif)
-<!-- .element: height="250px" -->](https://www.sqlite.org/lang_altertable.html)
+[![alter_table](http://sqlite.org/images/syntax/alter-table-stmt.gif)<!-- .element: height="250px" -->](https://www.sqlite.org/lang_altertable.html)
 
 - SQLite only supports two forms of alteration to an existing table in the database: to rename the table or to add a new column to the table
 
@@ -108,8 +107,7 @@ ALTER TABLE AuthorTemp RENAME TO MeadowbankAuthor;
 
 
 ## DROP TABLE
-[![drop_table](http://sqlite.org/images/syntax/drop-table-stmt.gif)
-<!-- .element: height="80px" -->](https://www.sqlite.org/lang_droptable.html)
+[![drop_table](http://sqlite.org/images/syntax/drop-table-stmt.gif)<!-- .element: height="80px" -->](https://www.sqlite.org/lang_droptable.html)
 
 - All the data, structure, constraint and index associated with the table are deleted completely and permanently
 
@@ -122,8 +120,7 @@ DROP TABLE MeadowbankAuthor;
 
 
 ## INSERT
-[![insert](http://sqlite.org/images/syntax/insert-stmt.gif)
-<!-- .element: height="650px" -->](https://www.sqlite.org/lang_insert.html)
+[![insert](http://sqlite.org/images/syntax/insert-stmt.gif)<!-- .element: height="650px" -->](https://www.sqlite.org/lang_insert.html)
 
 
 ## INSERT INTO VALUES
@@ -143,9 +140,9 @@ INSERT INTO Author (authorFirstName, authorLastName, authorStreet, authorSuburb,
 INSERT INTO Author (authorFirstName, authorLastName, authorStreet, authorSuburb, authorCity) VALUES ('Koorey','Beatrice','12 Peach Parade','Remuera','Auckland');
 ```
 
-- 🤔 What is the difference between including and not including named columns in the INSERT statement?
+🤔 What is the difference between including and not including named columns in the INSERT statement?
 
-- 🤔 What does such difference imply?
+🤔 What does such difference imply?
 
 
 ## INSERT INTO SELECT
@@ -159,8 +156,7 @@ FROM Author;
 
 
 ## SELECT
-[![select](http://sqlite.org/images/syntax/select-stmt.gif)
-<!-- .element: height="650px" -->](https://www.sqlite.org/lang_select.html)
+[![select](http://sqlite.org/images/syntax/select-stmt.gif)<!-- .element: height="650px" -->](https://www.sqlite.org/lang_select.html)
 
 
 ## Quiz 01
@@ -273,8 +269,7 @@ roleID      branchNo    staffCode
 
 
 ## UPDATE
-[![update](https://www.sqlite.org/images/syntax/update-stmt.gif)
-<!-- .element: height="300px" -->](https://www.sqlite.org/lang_update.html)
+[![update](https://www.sqlite.org/images/syntax/update-stmt.gif)<!-- .element: height="300px" -->](https://www.sqlite.org/lang_update.html)
 
 ```
 UPDATE Author
@@ -287,8 +282,7 @@ WHERE authorFirstName = 'De Silva';
 
 
 ## DELETE
-[![delete](https://www.sqlite.org/images/syntax/delete-stmt.gif)
-<!-- .element: height="200px" -->](https://www.sqlite.org/lang_delete.html)
+[![delete](https://www.sqlite.org/images/syntax/delete-stmt.gif)<!-- .element: height="200px" -->](https://www.sqlite.org/lang_delete.html)
 
 ```
 DELETE
@@ -352,7 +346,7 @@ St.Louis Gabriel
 Coorey Beatrice
 Koorey Beatrice
 ```
-- 🤔 How many string literals are being concatenated per row?
+🤔 How many string literals are being concatenated per row?
 
 
 ## Quiz 02
