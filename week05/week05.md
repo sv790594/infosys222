@@ -43,7 +43,7 @@
 
 
 ## Spec: Background
-- [Dante’s Pizzeria](https://www.zomato.com/auckland/dantes-pizzeria-ponsonby/menu) in Ponsonby Central has decided to build a food delivery system to serve customer around the area. They need a database to keep track of their product, customer and order. After an interview with the owner, you have been given a list of requirement
+- [Dante’s Pizzeria](https://static1.squarespace.com/static/5b4815892487fd35650c4a5f/t/62e9fea72cf76f3fba1dcc57/1659502254295/Dantes+Ponsonby+-+Food.pdf) in Ponsonby Central has decided to build a food delivery system to serve customer around the area. They need a database to keep track of their product, customer and order. After an interview with the owner, you have been given a list of requirement
 
 
 ## Spec: Product
@@ -81,26 +81,20 @@
 
 
 ## Food delivery system
-![pizza](pizza.png)
+![pizza](food-delivery.png)
 
 <small>Figure 5.2: The logical ERD of the food delivery system</small>
 
 
 ## Additional spec
-- [Chop Chop Noodle House](http://www.ponsonbychopchop.co.nz/) in Ponsonby Central is interested in the system you are developing for Dante’s Pizzeria, and they are happy to pay an ongoing service fee to Dante’s Pizzeria if they could use the food delivery system to serve their customer. The owner of Dante’s Pizzeria thinks that is a brilliant idea - now a customer could order a variety of food product from more than one restaurants at a time
+- [Chop Chop Noodle House](https://ponsonbychopchop.co.nz/wp-content/uploads/2022/06/CHOP-CHOP-Menu-Web_230622-LoRes.pdf) in Ponsonby Central is interested in the system you are developing for Dante’s Pizzeria, and they are happy to pay an ongoing service fee to Dante’s Pizzeria if they could use the food delivery system to serve their customer. The owner of Dante’s Pizzeria thinks that is a brilliant idea - now a customer could order a variety of food product from more than one restaurants at a time
 
 - After studying the website of Chop Chop Noodle House, list the new requirement and rule that must be followed for the food delivery system to accommodate two restaurants. Modify the logical ERD to reflect the changes required. Document and explain all the changes that have been made
 
 
-## Food delivery system (modified)
-![food](food.png)
-
-<small>Figure 5.3: The logical ERD of the food delivery system</small>
-
-
 
 # 💼 Case study
-### Animal management system <!-- .slide: data-background="zoo.jpg" data-background-transition="zoom" -->
+### Animal management system <!-- .slide: data-background="animal.jpg" data-background-transition="zoom" -->
 
 
 ## Objective
@@ -154,7 +148,7 @@
 
 
 ## Animal management system
-![zoo](zoo.png)
+![animal](animal.png)
 
 <small>Figure 5.4: The logical ERD of the animal management system</small>
 
