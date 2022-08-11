@@ -81,7 +81,7 @@
 
 
 ## Food delivery system
-![pizza](food-delivery.png)
+![pizza](food-delivery.png)<!-- .element: style="width:800px" -->
 
 <small>Figure 5.2: The logical ERD of the food delivery system</small>
 
@@ -148,7 +148,7 @@
 
 
 ## Animal management system
-![animal](animal.png)
+![animal](animal.png)<!-- .element: style="width:800px" -->
 
 <small>Figure 5.4: The logical ERD of the animal management system</small>
 
