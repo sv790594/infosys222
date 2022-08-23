@@ -70,7 +70,7 @@ membershipType, membershipTypeDescription,
 comments_made_at_AGM)
 ```
 
-- Derive a set of relations in third normal form (3NF) from the given table. Show each step of normalisation clearly. Indicate primary keys and foreign keys with solid / dashed lines or labels. State your assumptions in your answer if needed
+- Derive a set of relations in third normal form (3NF) from the given table. Show each step of normalisation clearly. Indicate primary keys and foreign keys with solid / dashed lines or labels. State your assumptions clearly in your answer
 
 
 ## Data warehouse
@@ -173,7 +173,7 @@ comments_made_at_AGM)
 ## Data modelling
 - Draw a logical ERD in crow’s foot notation for the case
 
-- Please note: all important design decisions and assumptions made must be clearly 	listed. All entity sets (with specialisation / generalisation as needed), all attributes 	including primary and foreign keys, and all relationships including cardinalities must be shown as appropriate. Following good database design principle, the ERD should not contain redundant entity sets, relationships or attributes
+- Please note: all important design decisions and assumptions made must be clearly 	listed. All entity sets (with specialisation / generalisation as needed), all attributes including primary and foreign keys, and all relationships including cardinalities must be shown as appropriate. Following good database design principle, the ERD should not contain redundant entity sets, relationships or attributes
 
 
 ## Does this solution satisfy the case?
@@ -192,7 +192,7 @@ comments_made_at_AGM)
 
 
 ## Normalisation
-- Derive a set of relations in third normal form (3NF) from the given table. Show each step of normalisation clearly. Indicate primary keys and foreign keys with solid / dashed lines or labels. State your assumptions in your answer if needed
+- Derive a set of relations in third normal form (3NF) from the given table. Show each step of normalisation clearly. Indicate primary keys and foreign keys with solid / dashed lines or labels. State your assumptions clearly in your answer
 
 
 
