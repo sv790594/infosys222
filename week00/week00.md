@@ -32,8 +32,8 @@ Student | 150+ of you from A to Z
 - Internal (60%)
 	- A1 (P1): due on 2022-08-05 Fri 08:00 (2%)
 	- A1 (P2): due on 2022-08-19 Fri 08:00 (8%)
-	- A2 (P1): due on 2022-09-23 Fri 08:00 (5%)
-	- A2 (P2): due on 2022-09-30 Fri 08:00 (15%)
+	- A2 (P1): due on 2022-09-30 Fri 08:00 (5%)
+	- A2 (P2): due on 2022-10-07 Fri 08:00 (15%)
 	- Lab: due on selected weeks (3,4,6,7,8,9,11) (10%)
 	- Test: held on 2022-09-12 Mon 18:30-20:00 (20%)
 
